@@ -1,0 +1,6 @@
+2023-10-09T20:07:31+00:00 babbage#11 I: Start test suite:10:nested_add.
+2023-10-09T20:07:31+00:00 babbage#11 I: Test suite:10:nested_add is successful.
+2023-10-09T20:07:31+00:00 babbage#11 I: End test suite:10:nested_add.
+2023-10-09T20:07:31+00:00 babbage#11 I: Start test suite:18:nested_bind3.
+2023-10-09T20:07:32+00:00 babbage#11 I: Test suite:18:nested_bind3 is successful.
+2023-10-09T20:07:32+00:00 babbage#11 I: End test suite:18:nested_bind3.

@@ -1,0 +1,9 @@
+2023-11-23T02:13:29+00:00 babbage#06 I: Start test suite:5:add1.
+2023-11-23T02:13:29+00:00 babbage#06 I: Test suite:5:add1 is successful.
+2023-11-23T02:13:29+00:00 babbage#06 I: End test suite:5:add1.
+2023-11-23T02:13:29+00:00 babbage#06 I: Start test suite:32:simple_arith.
+2023-11-23T02:13:29+00:00 babbage#06 I: Test suite:32:simple_arith is successful.
+2023-11-23T02:13:29+00:00 babbage#06 I: End test suite:32:simple_arith.
+2023-11-23T02:13:29+00:00 babbage#06 I: Start test suite:47:forTest.
+2023-11-23T02:13:29+00:00 babbage#06 I: Test suite:47:forTest is successful.
+2023-11-23T02:13:29+00:00 babbage#06 I: End test suite:47:forTest.

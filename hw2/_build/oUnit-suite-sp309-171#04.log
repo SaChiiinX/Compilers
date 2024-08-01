@@ -1,0 +1,21 @@
+2023-11-15T01:51:24+00:00 sp309-171#04 I: Start test suite:3:forty.
+2023-11-15T01:51:24+00:00 sp309-171#04 I: Test suite:3:forty is successful.
+2023-11-15T01:51:24+00:00 sp309-171#04 I: End test suite:3:forty.
+2023-11-15T01:51:24+00:00 sp309-171#04 I: Start test suite:24:while_int.
+2023-11-15T01:51:24+00:00 sp309-171#04 I: Test suite:24:while_int is successful.
+2023-11-15T01:51:24+00:00 sp309-171#04 I: End test suite:24:while_int.
+2023-11-15T01:51:24+00:00 sp309-171#04 I: Start test suite:30:bad_logic.
+2023-11-15T01:51:24+00:00 sp309-171#04 I: Test suite:30:bad_logic is successful.
+2023-11-15T01:51:24+00:00 sp309-171#04 I: End test suite:30:bad_logic.
+2023-11-15T01:51:24+00:00 sp309-171#04 I: Start test suite:36:mult_binop.
+2023-11-15T01:51:24+00:00 sp309-171#04 E: Test suite:36:mult_binop has failed.
+2023-11-15T01:51:24+00:00 sp309-171#04 E: expected: 15
+2023-11-15T01:51:24+00:00 sp309-171#04 E:  but got: 6
+2023-11-15T01:51:24+00:00 sp309-171#04 E:  in test suite:36:mult_binop.
+2023-11-15T01:51:24+00:00 sp309-171#04 E: Raised at OUnitAssert.assert_failure in file "src/lib/ounit2/advanced/oUnitAssert.ml", line 45, characters 2-27
+2023-11-15T01:51:24+00:00 sp309-171#04 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2023-11-15T01:51:24+00:00 sp309-171#04 E: 
+2023-11-15T01:51:24+00:00 sp309-171#04 I: End test suite:36:mult_binop.
+2023-11-15T01:51:24+00:00 sp309-171#04 I: Start test suite:48:mul.
+2023-11-15T01:51:25+00:00 sp309-171#04 I: Test suite:48:mul is successful.
+2023-11-15T01:51:25+00:00 sp309-171#04 I: End test suite:48:mul.

@@ -1,0 +1,9 @@
+2023-11-15T01:51:24+00:00 sp309-171#06 I: Start test suite:5:def_x.
+2023-11-15T01:51:24+00:00 sp309-171#06 I: Test suite:5:def_x is successful.
+2023-11-15T01:51:24+00:00 sp309-171#06 I: End test suite:5:def_x.
+2023-11-15T01:51:24+00:00 sp309-171#06 I: Start test suite:34:doWhile.
+2023-11-15T01:51:24+00:00 sp309-171#06 I: Test suite:34:doWhile is successful.
+2023-11-15T01:51:24+00:00 sp309-171#06 I: End test suite:34:doWhile.
+2023-11-15T01:51:24+00:00 sp309-171#06 I: Start test suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#06 I: Test suite:47:add_neg is successful.
+2023-11-15T01:51:25+00:00 sp309-171#06 I: End test suite:47:add_neg.

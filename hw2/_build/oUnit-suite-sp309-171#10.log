@@ -1,0 +1,9 @@
+2023-11-15T01:51:24+00:00 sp309-171#10 I: Start test suite:9:setTest.
+2023-11-15T01:51:24+00:00 sp309-171#10 I: Test suite:9:setTest is successful.
+2023-11-15T01:51:24+00:00 sp309-171#10 I: End test suite:9:setTest.
+2023-11-15T01:51:24+00:00 sp309-171#10 I: Start test suite:45:myTest_9.
+2023-11-15T01:51:24+00:00 sp309-171#10 I: Test suite:45:myTest_9 is successful.
+2023-11-15T01:51:24+00:00 sp309-171#10 I: End test suite:45:myTest_9.
+2023-11-15T01:51:24+00:00 sp309-171#10 I: Start test suite:55:var_sub.
+2023-11-15T01:51:25+00:00 sp309-171#10 I: Test suite:55:var_sub is successful.
+2023-11-15T01:51:25+00:00 sp309-171#10 I: End test suite:55:var_sub.

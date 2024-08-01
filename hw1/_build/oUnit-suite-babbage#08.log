@@ -1,0 +1,9 @@
+2023-10-09T20:07:31+00:00 babbage#08 I: Start test suite:7:def_x3.
+2023-10-09T20:07:31+00:00 babbage#08 I: Test suite:7:def_x3 is successful.
+2023-10-09T20:07:31+00:00 babbage#08 I: End test suite:7:def_x3.
+2023-10-09T20:07:31+00:00 babbage#08 I: Start test suite:16:nested_bind.
+2023-10-09T20:07:32+00:00 babbage#08 I: Test suite:16:nested_bind is successful.
+2023-10-09T20:07:32+00:00 babbage#08 I: End test suite:16:nested_bind.
+2023-10-09T20:07:32+00:00 babbage#08 I: Start test suite:37:var_sub.
+2023-10-09T20:07:32+00:00 babbage#08 I: Test suite:37:var_sub is successful.
+2023-10-09T20:07:32+00:00 babbage#08 I: End test suite:37:var_sub.

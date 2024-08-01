@@ -1,0 +1,560 @@
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Runner: processes
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Chooser: simple
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Configuration suite_name = "suite"
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Configuration cache_filename = "/home/skchin/Compilers/mfriend-skchin/hw2/_build/oUnit-$(suite_name).cache"
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Configuration run_gc_full_major = "true"
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Configuration display = "true"
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Configuration results_style_1_X = "false"
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Configuration testdata_dir = "none"
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Configuration health_check_interval = "1."
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Configuration verbose = "false"
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Configuration chooser = "simple"
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Configuration output_html_dir = "none"
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Configuration processes_kill_period = "5."
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Configuration runner = "processes"
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Configuration shards = "12"
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Configuration processes_grace_period = "5."
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Configuration log_encoding = "utf-8"
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Configuration output_junit_file = "none"
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Configuration ci = "false"
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Configuration output_file = "/home/skchin/Compilers/mfriend-skchin/hw2/_build/oUnit-$(suite_name)-$(shard_id).log"
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Using 12 workers maximum.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Starting worker number sp309-171#01.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Worker sp309-171#01 started.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Starting worker number sp309-171#02.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Worker sp309-171#02 started.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Starting worker number sp309-171#03.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Worker sp309-171#03 started.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Starting worker number sp309-171#04.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Worker sp309-171#04 started.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Starting worker number sp309-171#05.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Worker sp309-171#05 started.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Starting worker number sp309-171#06.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Worker sp309-171#06 started.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Starting worker number sp309-171#07.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Worker sp309-171#07 started.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Starting worker number sp309-171#08.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Worker sp309-171#08 started.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Starting worker number sp309-171#09.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Worker sp309-171#09 started.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Starting worker number sp309-171#10.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Worker sp309-171#10 started.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Starting worker number sp309-171#11.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Worker sp309-171#11 started.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Starting worker number sp309-171#12.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: Worker sp309-171#12 started.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:11:whiletest, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty, suite:2:forty_one, suite:1:while_weird_parse, suite:0:forty_one_parse.
+2023-11-15T01:51:24+00:00 sp309-171#01 I: Start test suite:0:forty_one_parse.
+2023-11-15T01:51:24+00:00 sp309-171#02 I: Start test suite:1:while_weird_parse.
+2023-11-15T01:51:24+00:00 sp309-171#03 I: Start test suite:2:forty_one.
+2023-11-15T01:51:24+00:00 sp309-171#04 I: Start test suite:3:forty.
+2023-11-15T01:51:24+00:00 sp309-171#05 I: Start test suite:4:add1.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:11:whiletest, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty, suite:2:forty_one, suite:1:while_weird_parse, suite:0:forty_one_parse.
+2023-11-15T01:51:24+00:00 sp309-171#01 I: Test suite:0:forty_one_parse is successful.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:11:whiletest, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty, suite:2:forty_one, suite:1:while_weird_parse, suite:0:forty_one_parse.
+2023-11-15T01:51:24+00:00 sp309-171#01 I: End test suite:0:forty_one_parse.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:11:whiletest, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty, suite:2:forty_one, suite:1:while_weird_parse, suite:0:forty_one_parse.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:12:boolTest, suite:11:whiletest, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty, suite:2:forty_one, suite:1:while_weird_parse.
+2023-11-15T01:51:24+00:00 sp309-171#01 I: Start test suite:12:boolTest.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:12:boolTest, suite:11:whiletest, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty, suite:2:forty_one, suite:1:while_weird_parse.
+2023-11-15T01:51:24+00:00 sp309-171#06 I: Start test suite:5:def_x.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:12:boolTest, suite:11:whiletest, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty, suite:2:forty_one, suite:1:while_weird_parse.
+2023-11-15T01:51:24+00:00 sp309-171#02 I: Test suite:1:while_weird_parse is successful.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:12:boolTest, suite:11:whiletest, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty, suite:2:forty_one, suite:1:while_weird_parse.
+2023-11-15T01:51:24+00:00 sp309-171#02 I: End test suite:1:while_weird_parse.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: Start test suite:6:def_x2.
+2023-11-15T01:51:24+00:00 sp309-171#08 I: Start test suite:7:ifTest.
+2023-11-15T01:51:24+00:00 sp309-171#09 I: Start test suite:8:ifTestLet.
+2023-11-15T01:51:24+00:00 sp309-171#10 I: Start test suite:9:setTest.
+2023-11-15T01:51:24+00:00 sp309-171#11 I: Start test suite:10:setTest2.
+2023-11-15T01:51:24+00:00 sp309-171#12 I: Start test suite:11:whiletest.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:12:boolTest, suite:11:whiletest, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty, suite:2:forty_one, suite:1:while_weird_parse.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:13:whileIntense, suite:12:boolTest, suite:11:whiletest, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty, suite:2:forty_one.
+2023-11-15T01:51:24+00:00 sp309-171#02 I: Start test suite:13:whileIntense.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:13:whileIntense, suite:12:boolTest, suite:11:whiletest, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty, suite:2:forty_one.
+2023-11-15T01:51:24+00:00 sp309-171#05 I: Test suite:4:add1 is successful.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:13:whileIntense, suite:12:boolTest, suite:11:whiletest, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty, suite:2:forty_one.
+2023-11-15T01:51:24+00:00 sp309-171#05 I: End test suite:4:add1.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:13:whileIntense, suite:12:boolTest, suite:11:whiletest, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty, suite:2:forty_one.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:14:while_weird, suite:13:whileIntense, suite:12:boolTest, suite:11:whiletest, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:3:forty, suite:2:forty_one.
+2023-11-15T01:51:24+00:00 sp309-171#05 I: Start test suite:14:while_weird.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:14:while_weird, suite:13:whileIntense, suite:12:boolTest, suite:11:whiletest, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:3:forty, suite:2:forty_one.
+2023-11-15T01:51:24+00:00 sp309-171#01 I: Test suite:12:boolTest is successful.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:14:while_weird, suite:13:whileIntense, suite:12:boolTest, suite:11:whiletest, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:3:forty, suite:2:forty_one.
+2023-11-15T01:51:24+00:00 sp309-171#01 I: End test suite:12:boolTest.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:14:while_weird, suite:13:whileIntense, suite:12:boolTest, suite:11:whiletest, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:3:forty, suite:2:forty_one.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:15:failID, suite:14:while_weird, suite:13:whileIntense, suite:11:whiletest, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:3:forty, suite:2:forty_one.
+2023-11-15T01:51:24+00:00 sp309-171#01 I: Start test suite:15:failID.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:15:failID, suite:14:while_weird, suite:13:whileIntense, suite:11:whiletest, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:3:forty, suite:2:forty_one.
+2023-11-15T01:51:24+00:00 sp309-171#01 I: Test suite:15:failID is successful.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:15:failID, suite:14:while_weird, suite:13:whileIntense, suite:11:whiletest, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:3:forty, suite:2:forty_one.
+2023-11-15T01:51:24+00:00 sp309-171#01 I: End test suite:15:failID.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:15:failID, suite:14:while_weird, suite:13:whileIntense, suite:11:whiletest, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:3:forty, suite:2:forty_one.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:16:failSet, suite:14:while_weird, suite:13:whileIntense, suite:11:whiletest, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:3:forty, suite:2:forty_one.
+2023-11-15T01:51:24+00:00 sp309-171#01 I: Start test suite:16:failSet.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:16:failSet, suite:14:while_weird, suite:13:whileIntense, suite:11:whiletest, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:3:forty, suite:2:forty_one.
+2023-11-15T01:51:24+00:00 sp309-171#01 I: Test suite:16:failSet is successful.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:16:failSet, suite:14:while_weird, suite:13:whileIntense, suite:11:whiletest, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:3:forty, suite:2:forty_one.
+2023-11-15T01:51:24+00:00 sp309-171#01 I: End test suite:16:failSet.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:16:failSet, suite:14:while_weird, suite:13:whileIntense, suite:11:whiletest, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:3:forty, suite:2:forty_one.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:17:inc_args, suite:14:while_weird, suite:13:whileIntense, suite:11:whiletest, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:3:forty, suite:2:forty_one.
+2023-11-15T01:51:24+00:00 sp309-171#01 I: Start test suite:17:inc_args.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:17:inc_args, suite:14:while_weird, suite:13:whileIntense, suite:11:whiletest, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:3:forty, suite:2:forty_one.
+2023-11-15T01:51:24+00:00 sp309-171#01 I: Test suite:17:inc_args is successful.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:17:inc_args, suite:14:while_weird, suite:13:whileIntense, suite:11:whiletest, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:3:forty, suite:2:forty_one.
+2023-11-15T01:51:24+00:00 sp309-171#03 I: Test suite:2:forty_one is successful.
+2023-11-15T01:51:24+00:00 sp309-171#12 I: Test suite:11:whiletest is successful.
+2023-11-15T01:51:24+00:00 sp309-171#01 I: End test suite:17:inc_args.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:17:inc_args, suite:14:while_weird, suite:13:whileIntense, suite:11:whiletest, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:3:forty, suite:2:forty_one.
+2023-11-15T01:51:24+00:00 sp309-171#03 I: End test suite:2:forty_one.
+2023-11-15T01:51:24+00:00 sp309-171#12 I: End test suite:11:whiletest.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:18:plus_args, suite:14:while_weird, suite:13:whileIntense, suite:11:whiletest, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:3:forty, suite:2:forty_one.
+2023-11-15T01:51:24+00:00 sp309-171#01 I: Start test suite:18:plus_args.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:20:if_cond, suite:19:arith_nested, suite:18:plus_args, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:3:forty.
+2023-11-15T01:51:24+00:00 sp309-171#01 I: Test suite:18:plus_args is successful.
+2023-11-15T01:51:24+00:00 sp309-171#12 I: Start test suite:19:arith_nested.
+2023-11-15T01:51:24+00:00 sp309-171#03 I: Start test suite:20:if_cond.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:20:if_cond, suite:19:arith_nested, suite:18:plus_args, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:3:forty.
+2023-11-15T01:51:24+00:00 sp309-171#04 I: Test suite:3:forty is successful.
+2023-11-15T01:51:24+00:00 sp309-171#01 I: End test suite:18:plus_args.
+2023-11-15T01:51:24+00:00 sp309-171#12 I: Test suite:19:arith_nested is successful.
+2023-11-15T01:51:24+00:00 sp309-171#03 I: Test suite:20:if_cond is successful.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:20:if_cond, suite:19:arith_nested, suite:18:plus_args, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:3:forty.
+2023-11-15T01:51:24+00:00 sp309-171#04 I: End test suite:3:forty.
+2023-11-15T01:51:24+00:00 sp309-171#12 I: End test suite:19:arith_nested.
+2023-11-15T01:51:24+00:00 sp309-171#03 I: End test suite:20:if_cond.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:21:if_branch, suite:20:if_cond, suite:19:arith_nested, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x, suite:3:forty.
+2023-11-15T01:51:24+00:00 sp309-171#08 I: Test suite:7:ifTest is successful.
+2023-11-15T01:51:24+00:00 sp309-171#01 I: Start test suite:21:if_branch.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:24:while_int, suite:23:set, suite:22:comp, suite:21:if_branch, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x.
+2023-11-15T01:51:24+00:00 sp309-171#08 I: End test suite:7:ifTest.
+2023-11-15T01:51:24+00:00 sp309-171#01 I: Test suite:21:if_branch is successful.
+2023-11-15T01:51:24+00:00 sp309-171#03 I: Start test suite:22:comp.
+2023-11-15T01:51:24+00:00 sp309-171#12 I: Start test suite:23:set.
+2023-11-15T01:51:24+00:00 sp309-171#04 I: Start test suite:24:while_int.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:24:while_int, suite:23:set, suite:22:comp, suite:21:if_branch, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:7:ifTest, suite:6:def_x2, suite:5:def_x.
+2023-11-15T01:51:24+00:00 sp309-171#01 I: End test suite:21:if_branch.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:25:while_bad, suite:24:while_int, suite:23:set, suite:22:comp, suite:21:if_branch, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:6:def_x2, suite:5:def_x.
+2023-11-15T01:51:24+00:00 sp309-171#08 I: Start test suite:25:while_bad.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:26:while_false, suite:25:while_bad, suite:24:while_int, suite:23:set, suite:22:comp, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:6:def_x2, suite:5:def_x.
+2023-11-15T01:51:24+00:00 sp309-171#03 I: Test suite:22:comp is successful.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:26:while_false, suite:25:while_bad, suite:24:while_int, suite:23:set, suite:22:comp, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:6:def_x2, suite:5:def_x.
+2023-11-15T01:51:24+00:00 sp309-171#03 I: End test suite:22:comp.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:26:while_false, suite:25:while_bad, suite:24:while_int, suite:23:set, suite:22:comp, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:6:def_x2, suite:5:def_x.
+2023-11-15T01:51:24+00:00 sp309-171#12 I: Test suite:23:set is successful.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:27:empty_while, suite:26:while_false, suite:25:while_bad, suite:24:while_int, suite:23:set, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:6:def_x2, suite:5:def_x.
+2023-11-15T01:51:24+00:00 sp309-171#12 I: End test suite:23:set.
+2023-11-15T01:51:24+00:00 sp309-171#03 I: Start test suite:27:empty_while.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:27:empty_while, suite:26:while_false, suite:25:while_bad, suite:24:while_int, suite:23:set, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:6:def_x2, suite:5:def_x.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:28:empty_let, suite:27:empty_while, suite:26:while_false, suite:25:while_bad, suite:24:while_int, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:6:def_x2, suite:5:def_x.
+2023-11-15T01:51:24+00:00 sp309-171#08 I: Test suite:25:while_bad is successful.
+2023-11-15T01:51:24+00:00 sp309-171#12 I: Start test suite:28:empty_let.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:28:empty_let, suite:27:empty_while, suite:26:while_false, suite:25:while_bad, suite:24:while_int, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:6:def_x2, suite:5:def_x.
+2023-11-15T01:51:24+00:00 sp309-171#08 I: End test suite:25:while_bad.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:28:empty_let, suite:27:empty_while, suite:26:while_false, suite:25:while_bad, suite:24:while_int, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:6:def_x2, suite:5:def_x.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:29:bad_let, suite:28:empty_let, suite:27:empty_while, suite:26:while_false, suite:24:while_int, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:6:def_x2, suite:5:def_x.
+2023-11-15T01:51:24+00:00 sp309-171#08 I: Start test suite:29:bad_let.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:29:bad_let, suite:28:empty_let, suite:27:empty_while, suite:26:while_false, suite:24:while_int, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:6:def_x2, suite:5:def_x.
+2023-11-15T01:51:24+00:00 sp309-171#04 I: Test suite:24:while_int is successful.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:29:bad_let, suite:28:empty_let, suite:27:empty_while, suite:26:while_false, suite:24:while_int, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:6:def_x2, suite:5:def_x.
+2023-11-15T01:51:24+00:00 sp309-171#04 I: End test suite:24:while_int.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:29:bad_let, suite:28:empty_let, suite:27:empty_while, suite:26:while_false, suite:24:while_int, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:6:def_x2, suite:5:def_x.
+2023-11-15T01:51:24+00:00 sp309-171#03 I: Test suite:27:empty_while is successful.
+2023-11-15T01:51:24+00:00 sp309-171#12 I: Test suite:28:empty_let is successful.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:30:bad_logic, suite:29:bad_let, suite:28:empty_let, suite:27:empty_while, suite:26:while_false, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:6:def_x2, suite:5:def_x.
+2023-11-15T01:51:24+00:00 sp309-171#06 I: Test suite:5:def_x is successful.
+2023-11-15T01:51:24+00:00 sp309-171#01 I: Start test suite:26:while_false.
+2023-11-15T01:51:24+00:00 sp309-171#03 I: End test suite:27:empty_while.
+2023-11-15T01:51:24+00:00 sp309-171#12 I: End test suite:28:empty_let.
+2023-11-15T01:51:24+00:00 sp309-171#08 I: Test suite:29:bad_let is successful.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:30:bad_logic, suite:29:bad_let, suite:28:empty_let, suite:27:empty_while, suite:26:while_false, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:6:def_x2, suite:5:def_x.
+2023-11-15T01:51:24+00:00 sp309-171#06 I: End test suite:5:def_x.
+2023-11-15T01:51:24+00:00 sp309-171#01 I: Test suite:26:while_false is successful.
+2023-11-15T01:51:24+00:00 sp309-171#08 I: End test suite:29:bad_let.
+2023-11-15T01:51:24+00:00 sp309-171#04 I: Start test suite:30:bad_logic.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:32:doIntense, suite:31:dotest, suite:30:bad_logic, suite:29:bad_let, suite:26:while_false, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:6:def_x2, suite:5:def_x.
+2023-11-15T01:51:24+00:00 sp309-171#01 I: End test suite:26:while_false.
+2023-11-15T01:51:24+00:00 sp309-171#12 I: Start test suite:31:dotest.
+2023-11-15T01:51:24+00:00 sp309-171#03 I: Start test suite:32:doIntense.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:30:bad_logic, suite:26:while_false, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:6:def_x2.
+2023-11-15T01:51:24+00:00 sp309-171#08 I: Start test suite:33:fortest.
+2023-11-15T01:51:24+00:00 sp309-171#06 I: Start test suite:34:doWhile.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:30:bad_logic, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:6:def_x2.
+2023-11-15T01:51:24+00:00 sp309-171#04 I: Test suite:30:bad_logic is successful.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:30:bad_logic, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:6:def_x2.
+2023-11-15T01:51:24+00:00 sp309-171#04 I: End test suite:30:bad_logic.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:30:bad_logic, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:6:def_x2.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:6:def_x2.
+2023-11-15T01:51:24+00:00 sp309-171#04 I: Start test suite:36:mult_binop.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:6:def_x2.
+2023-11-15T01:51:24+00:00 sp309-171#01 I: Start test suite:35:doWhileNest.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:6:def_x2.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: Test suite:6:def_x2 is successful.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:6:def_x2.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: End test suite:6:def_x2.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet, suite:6:def_x2.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:37:doWhileFail, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: Start test suite:37:doWhileFail.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:37:doWhileFail, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: Test suite:37:doWhileFail is successful.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:37:doWhileFail, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: End test suite:37:doWhileFail.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:37:doWhileFail, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:38:myTest_1, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: Start test suite:38:myTest_1.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:38:myTest_1, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: Test suite:38:myTest_1 is successful.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:38:myTest_1, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: End test suite:38:myTest_1.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:38:myTest_1, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:39:myTest_2, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: Start test suite:39:myTest_2.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:39:myTest_2, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: Test suite:39:myTest_2 is successful.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:39:myTest_2, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet.
+2023-11-15T01:51:24+00:00 sp309-171#11 I: Test suite:10:setTest2 is successful.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: End test suite:39:myTest_2.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:39:myTest_2, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet.
+2023-11-15T01:51:24+00:00 sp309-171#11 I: End test suite:10:setTest2.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:40:myTest_3, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense, suite:10:setTest2, suite:9:setTest, suite:8:ifTestLet.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: Start test suite:40:myTest_3.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:41:myTest_4, suite:40:myTest_3, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense, suite:9:setTest, suite:8:ifTestLet.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: Test suite:40:myTest_3 is successful.
+2023-11-15T01:51:24+00:00 sp309-171#11 I: Start test suite:41:myTest_4.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:41:myTest_4, suite:40:myTest_3, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense, suite:9:setTest, suite:8:ifTestLet.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: End test suite:40:myTest_3.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:41:myTest_4, suite:40:myTest_3, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense, suite:9:setTest, suite:8:ifTestLet.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:42:myTest_6, suite:41:myTest_4, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense, suite:9:setTest, suite:8:ifTestLet.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: Start test suite:42:myTest_6.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:42:myTest_6, suite:41:myTest_4, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense, suite:9:setTest, suite:8:ifTestLet.
+2023-11-15T01:51:24+00:00 sp309-171#09 I: Test suite:8:ifTestLet is successful.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:42:myTest_6, suite:41:myTest_4, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense, suite:9:setTest, suite:8:ifTestLet.
+2023-11-15T01:51:24+00:00 sp309-171#09 I: End test suite:8:ifTestLet.
+2023-11-15T01:51:24+00:00 sp309-171#11 I: Test suite:41:myTest_4 is successful.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:42:myTest_6, suite:41:myTest_4, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense, suite:9:setTest, suite:8:ifTestLet.
+2023-11-15T01:51:24+00:00 sp309-171#11 I: End test suite:41:myTest_4.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:43:myTest_7, suite:42:myTest_6, suite:41:myTest_4, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense, suite:9:setTest.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense, suite:9:setTest.
+2023-11-15T01:51:24+00:00 sp309-171#09 I: Start test suite:43:myTest_7.
+2023-11-15T01:51:24+00:00 sp309-171#11 I: Start test suite:44:myTest_8.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense, suite:9:setTest.
+2023-11-15T01:51:24+00:00 sp309-171#10 I: Test suite:9:setTest is successful.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense, suite:9:setTest.
+2023-11-15T01:51:24+00:00 sp309-171#10 I: End test suite:9:setTest.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense, suite:9:setTest.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:45:myTest_9, suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense.
+2023-11-15T01:51:24+00:00 sp309-171#10 I: Start test suite:45:myTest_9.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:45:myTest_9, suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense.
+2023-11-15T01:51:24+00:00 sp309-171#02 I: Test suite:13:whileIntense is successful.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:45:myTest_9, suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense.
+2023-11-15T01:51:24+00:00 sp309-171#02 I: End test suite:13:whileIntense.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:45:myTest_9, suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird, suite:13:whileIntense.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:46:myTest_10, suite:45:myTest_9, suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird.
+2023-11-15T01:51:24+00:00 sp309-171#02 I: Start test suite:46:myTest_10.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:46:myTest_10, suite:45:myTest_9, suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird.
+2023-11-15T01:51:24+00:00 sp309-171#06 I: Test suite:34:doWhile is successful.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:46:myTest_10, suite:45:myTest_9, suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird.
+2023-11-15T01:51:24+00:00 sp309-171#06 I: End test suite:34:doWhile.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:46:myTest_10, suite:45:myTest_9, suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:36:mult_binop, suite:35:doWhileNest, suite:34:doWhile, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:47:add_neg, suite:46:myTest_10, suite:45:myTest_9, suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:36:mult_binop, suite:35:doWhileNest, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird.
+2023-11-15T01:51:24+00:00 sp309-171#06 I: Start test suite:47:add_neg.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:47:add_neg, suite:46:myTest_10, suite:45:myTest_9, suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:36:mult_binop, suite:35:doWhileNest, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird.
+2023-11-15T01:51:24+00:00 sp309-171#04 E: Test suite:36:mult_binop has failed.
+2023-11-15T01:51:24+00:00 sp309-171#04 E: expected: 15
+2023-11-15T01:51:24+00:00 sp309-171#04 E:  but got: 6
+2023-11-15T01:51:24+00:00 sp309-171#04 E:  in test suite:36:mult_binop.
+2023-11-15T01:51:24+00:00 sp309-171#04 E: Raised at OUnitAssert.assert_failure in file "src/lib/ounit2/advanced/oUnitAssert.ml", line 45, characters 2-27
+2023-11-15T01:51:24+00:00 sp309-171#04 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2023-11-15T01:51:24+00:00 sp309-171#04 E: 
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:47:add_neg, suite:46:myTest_10, suite:45:myTest_9, suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:36:mult_binop, suite:35:doWhileNest, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird.
+2023-11-15T01:51:24+00:00 sp309-171#04 I: End test suite:36:mult_binop.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:47:add_neg, suite:46:myTest_10, suite:45:myTest_9, suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:36:mult_binop, suite:35:doWhileNest, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:48:mul, suite:47:add_neg, suite:46:myTest_10, suite:45:myTest_9, suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:35:doWhileNest, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird.
+2023-11-15T01:51:24+00:00 sp309-171#05 I: Test suite:14:while_weird is successful.
+2023-11-15T01:51:24+00:00 sp309-171#04 I: Start test suite:48:mul.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:48:mul, suite:47:add_neg, suite:46:myTest_10, suite:45:myTest_9, suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:35:doWhileNest, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird.
+2023-11-15T01:51:24+00:00 sp309-171#05 I: End test suite:14:while_weird.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:48:mul, suite:47:add_neg, suite:46:myTest_10, suite:45:myTest_9, suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:35:doWhileNest, suite:33:fortest, suite:32:doIntense, suite:31:dotest, suite:14:while_weird.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:49:complex_arith, suite:48:mul, suite:47:add_neg, suite:46:myTest_10, suite:45:myTest_9, suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:35:doWhileNest, suite:33:fortest, suite:32:doIntense, suite:31:dotest.
+2023-11-15T01:51:24+00:00 sp309-171#05 I: Start test suite:49:complex_arith.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:49:complex_arith, suite:48:mul, suite:47:add_neg, suite:46:myTest_10, suite:45:myTest_9, suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:35:doWhileNest, suite:33:fortest, suite:32:doIntense, suite:31:dotest.
+2023-11-15T01:51:24+00:00 sp309-171#03 I: Test suite:32:doIntense is successful.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:49:complex_arith, suite:48:mul, suite:47:add_neg, suite:46:myTest_10, suite:45:myTest_9, suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:35:doWhileNest, suite:33:fortest, suite:32:doIntense, suite:31:dotest.
+2023-11-15T01:51:24+00:00 sp309-171#03 I: End test suite:32:doIntense.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:49:complex_arith, suite:48:mul, suite:47:add_neg, suite:46:myTest_10, suite:45:myTest_9, suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:35:doWhileNest, suite:33:fortest, suite:32:doIntense, suite:31:dotest.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg, suite:46:myTest_10, suite:45:myTest_9, suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:35:doWhileNest, suite:33:fortest, suite:31:dotest.
+2023-11-15T01:51:24+00:00 sp309-171#03 I: Start test suite:50:simple_let.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg, suite:46:myTest_10, suite:45:myTest_9, suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:35:doWhileNest, suite:33:fortest, suite:31:dotest.
+2023-11-15T01:51:24+00:00 sp309-171#08 I: Test suite:33:fortest is successful.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg, suite:46:myTest_10, suite:45:myTest_9, suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:35:doWhileNest, suite:33:fortest, suite:31:dotest.
+2023-11-15T01:51:24+00:00 sp309-171#08 I: End test suite:33:fortest.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg, suite:46:myTest_10, suite:45:myTest_9, suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:35:doWhileNest, suite:33:fortest, suite:31:dotest.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg, suite:46:myTest_10, suite:45:myTest_9, suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:35:doWhileNest, suite:31:dotest.
+2023-11-15T01:51:24+00:00 sp309-171#08 I: Start test suite:51:nest_let.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg, suite:46:myTest_10, suite:45:myTest_9, suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:35:doWhileNest, suite:31:dotest.
+2023-11-15T01:51:24+00:00 sp309-171#12 I: Test suite:31:dotest is successful.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg, suite:46:myTest_10, suite:45:myTest_9, suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:35:doWhileNest, suite:31:dotest.
+2023-11-15T01:51:24+00:00 sp309-171#12 I: End test suite:31:dotest.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg, suite:46:myTest_10, suite:45:myTest_9, suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:35:doWhileNest, suite:31:dotest.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg, suite:46:myTest_10, suite:45:myTest_9, suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:35:doWhileNest.
+2023-11-15T01:51:24+00:00 sp309-171#01 I: Test suite:35:doWhileNest is successful.
+2023-11-15T01:51:24+00:00 sp309-171#12 I: Start test suite:52:simple_arith.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg, suite:46:myTest_10, suite:45:myTest_9, suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:35:doWhileNest.
+2023-11-15T01:51:24+00:00 sp309-171#01 I: End test suite:35:doWhileNest.
+2023-11-15T01:51:24+00:00 sp309-171#11 I: Test suite:44:myTest_8 is successful.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg, suite:46:myTest_10, suite:45:myTest_9, suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6, suite:35:doWhileNest.
+2023-11-15T01:51:24+00:00 sp309-171#11 I: End test suite:44:myTest_8.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg, suite:46:myTest_10, suite:45:myTest_9, suite:44:myTest_8, suite:43:myTest_7, suite:42:myTest_6.
+2023-11-15T01:51:24+00:00 sp309-171#01 I: Start test suite:53:nest_arith.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg, suite:46:myTest_10, suite:45:myTest_9, suite:43:myTest_7, suite:42:myTest_6.
+2023-11-15T01:51:24+00:00 sp309-171#11 I: Start test suite:54:var_mul.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg, suite:46:myTest_10, suite:45:myTest_9, suite:43:myTest_7, suite:42:myTest_6.
+2023-11-15T01:51:24+00:00 sp309-171#10 I: Test suite:45:myTest_9 is successful.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg, suite:46:myTest_10, suite:45:myTest_9, suite:43:myTest_7, suite:42:myTest_6.
+2023-11-15T01:51:24+00:00 sp309-171#10 I: End test suite:45:myTest_9.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg, suite:46:myTest_10, suite:45:myTest_9, suite:43:myTest_7, suite:42:myTest_6.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg, suite:46:myTest_10, suite:43:myTest_7, suite:42:myTest_6.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: Test suite:42:myTest_6 is successful.
+2023-11-15T01:51:24+00:00 sp309-171#09 I: Test suite:43:myTest_7 is successful.
+2023-11-15T01:51:24+00:00 sp309-171#10 I: Start test suite:55:var_sub.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg, suite:46:myTest_10, suite:43:myTest_7, suite:42:myTest_6.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: End test suite:42:myTest_6.
+2023-11-15T01:51:24+00:00 sp309-171#09 I: End test suite:43:myTest_7.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg, suite:46:myTest_10, suite:43:myTest_7, suite:42:myTest_6.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg, suite:46:myTest_10.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: Start test suite:57:var_test.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg, suite:46:myTest_10.
+2023-11-15T01:51:24+00:00 sp309-171#09 I: Start test suite:56:var_add.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg, suite:46:myTest_10.
+2023-11-15T01:51:24+00:00 sp309-171#02 I: Test suite:46:myTest_10 is successful.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg, suite:46:myTest_10.
+2023-11-15T01:51:24+00:00 sp309-171#02 I: End test suite:46:myTest_10.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg, suite:46:myTest_10.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:58:invalid_operator, suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg.
+2023-11-15T01:51:24+00:00 sp309-171#02 I: Start test suite:58:invalid_operator.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:58:invalid_operator, suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg.
+2023-11-15T01:51:24+00:00 sp309-171#02 I: Test suite:58:invalid_operator is successful.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:58:invalid_operator, suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg.
+2023-11-15T01:51:24+00:00 sp309-171#02 I: End test suite:58:invalid_operator.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:58:invalid_operator, suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:59:res_word_as_var, suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg.
+2023-11-15T01:51:24+00:00 sp309-171#02 I: Start test suite:59:res_word_as_var.
+2023-11-15T01:51:24+00:00 sp309-171#00 I: 12 tests running: suite:59:res_word_as_var, suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg.
+2023-11-15T01:51:24+00:00 sp309-171#02 I: Test suite:59:res_word_as_var is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 12 tests running: suite:59:res_word_as_var, suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#02 I: End test suite:59:res_word_as_var.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 12 tests running: suite:59:res_word_as_var, suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 12 tests running: suite:60:undec_var_arith, suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#02 I: Start test suite:60:undec_var_arith.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 12 tests running: suite:60:undec_var_arith, suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#02 I: Test suite:60:undec_var_arith is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 12 tests running: suite:60:undec_var_arith, suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#02 I: End test suite:60:undec_var_arith.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 12 tests running: suite:60:undec_var_arith, suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 12 tests running : suite:61:undef_fun, suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 12 tests running: suite:61:undef_fun, suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#02 I: Start test suite:61:undef_fun.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 12 tests running : suite:61:undef_fun, suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 12 tests running: suite:61:undef_fun, suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#02 I: Test suite:61:undef_fun is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 12 tests running : suite:61:undef_fun, suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 12 tests running: suite:61:undef_fun, suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#02 I: End test suite:61:undef_fun.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 12 tests running : suite:61:undef_fun, suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 12 tests running: suite:61:undef_fun, suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 11 tests running : suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 11 tests running: suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#04 I: Test suite:48:mul is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 11 tests running : suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 11 tests running: suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#04 I: End test suite:48:mul.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 11 tests running : suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 11 tests running: suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:48:mul, suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 10 tests running : suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 10 tests running: suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#05 I: Test suite:49:complex_arith is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 10 tests running : suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 10 tests running: suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#05 I: End test suite:49:complex_arith.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 10 tests running : suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 10 tests running: suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:49:complex_arith, suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#06 I: Test suite:47:add_neg is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 9 tests running : suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 9 tests running: suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#06 I: End test suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 9 tests running : suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 9 tests running: suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let, suite:47:add_neg.
+2023-11-15T01:51:25+00:00 sp309-171#08 I: Test suite:51:nest_let is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 8 tests running : suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 8 tests running: suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let.
+2023-11-15T01:51:25+00:00 sp309-171#08 I: End test suite:51:nest_let.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 8 tests running : suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 8 tests running: suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:51:nest_let, suite:50:simple_let.
+2023-11-15T01:51:25+00:00 sp309-171#01 I: Test suite:53:nest_arith is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 7 tests running : suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:50:simple_let.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 7 tests running: suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:50:simple_let.
+2023-11-15T01:51:25+00:00 sp309-171#01 I: End test suite:53:nest_arith.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 7 tests running : suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:50:simple_let.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 7 tests running: suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:53:nest_arith, suite:52:simple_arith, suite:50:simple_let.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 6 tests running : suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:52:simple_arith, suite:50:simple_let.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 6 tests running: suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:52:simple_arith, suite:50:simple_let.
+2023-11-15T01:51:25+00:00 sp309-171#12 I: Test suite:52:simple_arith is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 6 tests running : suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:52:simple_arith, suite:50:simple_let.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 6 tests running: suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:52:simple_arith, suite:50:simple_let.
+2023-11-15T01:51:25+00:00 sp309-171#12 I: End test suite:52:simple_arith.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 6 tests running : suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:52:simple_arith, suite:50:simple_let.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 6 tests running: suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:52:simple_arith, suite:50:simple_let.
+2023-11-15T01:51:25+00:00 sp309-171#03 I: Test suite:50:simple_let is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 5 tests running : suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:50:simple_let.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 5 tests running: suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:50:simple_let.
+2023-11-15T01:51:25+00:00 sp309-171#03 I: End test suite:50:simple_let.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 5 tests running : suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:50:simple_let.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 5 tests running: suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul, suite:50:simple_let.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 4 tests running : suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 4 tests running: suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul.
+2023-11-15T01:51:25+00:00 sp309-171#11 I: Test suite:54:var_mul is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 4 tests running : suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 4 tests running: suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul.
+2023-11-15T01:51:25+00:00 sp309-171#11 I: End test suite:54:var_mul.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 4 tests running : suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 4 tests running: suite:57:var_test, suite:56:var_add, suite:55:var_sub, suite:54:var_mul.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 3 tests running : suite:57:var_test, suite:56:var_add, suite:55:var_sub.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 3 tests running: suite:57:var_test, suite:56:var_add, suite:55:var_sub.
+2023-11-15T01:51:25+00:00 sp309-171#07 I: Test suite:57:var_test is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 3 tests running : suite:57:var_test, suite:56:var_add, suite:55:var_sub.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 3 tests running: suite:57:var_test, suite:56:var_add, suite:55:var_sub.
+2023-11-15T01:51:25+00:00 sp309-171#07 I: End test suite:57:var_test.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 3 tests running : suite:57:var_test, suite:56:var_add, suite:55:var_sub.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 3 tests running: suite:57:var_test, suite:56:var_add, suite:55:var_sub.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 2 tests running : suite:56:var_add, suite:55:var_sub.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 2 tests running: suite:56:var_add, suite:55:var_sub.
+2023-11-15T01:51:25+00:00 sp309-171#10 I: Test suite:55:var_sub is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 2 tests running : suite:56:var_add, suite:55:var_sub.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 2 tests running: suite:56:var_add, suite:55:var_sub.
+2023-11-15T01:51:25+00:00 sp309-171#10 I: End test suite:55:var_sub.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 2 tests running : suite:56:var_add, suite:55:var_sub.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 2 tests running: suite:56:var_add, suite:55:var_sub.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 1 tests running : suite:56:var_add.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 1 tests running: suite:56:var_add.
+2023-11-15T01:51:25+00:00 sp309-171#09 I: Test suite:56:var_add is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 1 tests running : suite:56:var_add.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 1 tests running: suite:56:var_add.
+2023-11-15T01:51:25+00:00 sp309-171#09 I: End test suite:56:var_add.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Still 1 tests running : suite:56:var_add.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 1 tests running: suite:56:var_add.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: 0 tests running: .
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Worker sp309-171#02 has ended.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Worker sp309-171#04 has ended.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Worker sp309-171#05 has ended.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Worker sp309-171#06 has ended.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Worker sp309-171#08 has ended.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Worker sp309-171#01 has ended.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Worker sp309-171#12 has ended.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Worker sp309-171#03 has ended.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Worker sp309-171#11 has ended.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Worker sp309-171#07 has ended.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Worker sp309-171#10 has ended.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Worker sp309-171#09 has ended.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Used 12 worker during test execution.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Run 3 tests with shard sp309-171#10.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Run 5 tests with shard sp309-171#08.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Run 3 tests with shard sp309-171#09.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Run 3 tests with shard sp309-171#06.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Run 10 tests with shard sp309-171#01.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Run 7 tests with shard sp309-171#07.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Run 6 tests with shard sp309-171#12.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Run 7 tests with shard sp309-171#02.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Run 4 tests with shard sp309-171#11.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Run 5 tests with shard sp309-171#04.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Run 6 tests with shard sp309-171#03.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Run 3 tests with shard sp309-171#05.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Check health of shard sp309-171#10, 4 times.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Check health of shard sp309-171#08, 20 times.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Check health of shard sp309-171#09, 1 times.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Check health of shard sp309-171#06, 22 times.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Check health of shard sp309-171#01, 18 times.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Check health of shard sp309-171#12, 15 times.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Check health of shard sp309-171#07, 7 times.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Check health of shard sp309-171#02, 30 times.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Check health of shard sp309-171#11, 10 times.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Check health of shard sp309-171#04, 27 times.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Check health of shard sp309-171#03, 13 times.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Check health of shard sp309-171#05, 24 times.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: ==============
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Summary:
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:56:var_add is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:55:var_sub is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:57:var_test is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:54:var_mul is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:50:simple_let is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:52:simple_arith is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:53:nest_arith is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:51:nest_let is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:47:add_neg is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:49:complex_arith is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:48:mul is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:61:undef_fun is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:60:undec_var_arith is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:59:res_word_as_var is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:58:invalid_operator is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:46:myTest_10 is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:43:myTest_7 is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:42:myTest_6 is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:45:myTest_9 is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:44:myTest_8 is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:35:doWhileNest is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:31:dotest is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:33:fortest is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:32:doIntense is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:14:while_weird is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 E: Test suite:36:mult_binop has failed.
+2023-11-15T01:51:25+00:00 sp309-171#00 E: expected: 15
+2023-11-15T01:51:25+00:00 sp309-171#00 E:  but got: 6
+2023-11-15T01:51:25+00:00 sp309-171#00 E:  in test suite:36:mult_binop.
+2023-11-15T01:51:25+00:00 sp309-171#00 E: Raised at OUnitAssert.assert_failure in file "src/lib/ounit2/advanced/oUnitAssert.ml", line 45, characters 2-27
+2023-11-15T01:51:25+00:00 sp309-171#00 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2023-11-15T01:51:25+00:00 sp309-171#00 E: 
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:34:doWhile is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:13:whileIntense is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:9:setTest is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:41:myTest_4 is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:8:ifTestLet is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:40:myTest_3 is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:10:setTest2 is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:39:myTest_2 is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:38:myTest_1 is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:37:doWhileFail is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:6:def_x2 is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:30:bad_logic is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:26:while_false is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:29:bad_let is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:5:def_x is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:28:empty_let is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:27:empty_while is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:24:while_int is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:25:while_bad is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:23:set is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:22:comp is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:21:if_branch is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:7:ifTest is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:20:if_cond is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:19:arith_nested is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:3:forty is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:18:plus_args is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:11:whiletest is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:2:forty_one is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:17:inc_args is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:16:failSet is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:15:failID is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:12:boolTest is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:4:add1 is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:1:while_weird_parse is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Test suite:0:forty_one_parse is successful.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Ran: 62 tests in: 0.38 seconds.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Cases: 62.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Tried: 62.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Errors: 0.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Failures: 1.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Skip: 0.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Todo: 0.
+2023-11-15T01:51:25+00:00 sp309-171#00 I: Timeout: 0.

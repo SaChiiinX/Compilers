@@ -1,0 +1,9 @@
+2023-10-09T22:55:49+00:00 dritchie#07 I: Start test suite:6:def_x2.
+2023-10-09T22:55:49+00:00 dritchie#07 I: Test suite:6:def_x2 is successful.
+2023-10-09T22:55:49+00:00 dritchie#07 I: End test suite:6:def_x2.
+2023-10-09T22:55:49+00:00 dritchie#07 I: Start test suite:18:nested_bind3.
+2023-10-09T22:55:49+00:00 dritchie#07 I: Test suite:18:nested_bind3 is successful.
+2023-10-09T22:55:49+00:00 dritchie#07 I: End test suite:18:nested_bind3.
+2023-10-09T22:55:49+00:00 dritchie#07 I: Start test suite:37:var_sub.
+2023-10-09T22:55:49+00:00 dritchie#07 I: Test suite:37:var_sub is successful.
+2023-10-09T22:55:49+00:00 dritchie#07 I: End test suite:37:var_sub.

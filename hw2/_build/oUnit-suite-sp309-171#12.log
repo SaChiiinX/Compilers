@@ -1,0 +1,18 @@
+2023-11-15T01:51:24+00:00 sp309-171#12 I: Start test suite:11:whiletest.
+2023-11-15T01:51:24+00:00 sp309-171#12 I: Test suite:11:whiletest is successful.
+2023-11-15T01:51:24+00:00 sp309-171#12 I: End test suite:11:whiletest.
+2023-11-15T01:51:24+00:00 sp309-171#12 I: Start test suite:19:arith_nested.
+2023-11-15T01:51:24+00:00 sp309-171#12 I: Test suite:19:arith_nested is successful.
+2023-11-15T01:51:24+00:00 sp309-171#12 I: End test suite:19:arith_nested.
+2023-11-15T01:51:24+00:00 sp309-171#12 I: Start test suite:23:set.
+2023-11-15T01:51:24+00:00 sp309-171#12 I: Test suite:23:set is successful.
+2023-11-15T01:51:24+00:00 sp309-171#12 I: End test suite:23:set.
+2023-11-15T01:51:24+00:00 sp309-171#12 I: Start test suite:28:empty_let.
+2023-11-15T01:51:24+00:00 sp309-171#12 I: Test suite:28:empty_let is successful.
+2023-11-15T01:51:24+00:00 sp309-171#12 I: End test suite:28:empty_let.
+2023-11-15T01:51:24+00:00 sp309-171#12 I: Start test suite:31:dotest.
+2023-11-15T01:51:24+00:00 sp309-171#12 I: Test suite:31:dotest is successful.
+2023-11-15T01:51:24+00:00 sp309-171#12 I: End test suite:31:dotest.
+2023-11-15T01:51:24+00:00 sp309-171#12 I: Start test suite:52:simple_arith.
+2023-11-15T01:51:25+00:00 sp309-171#12 I: Test suite:52:simple_arith is successful.
+2023-11-15T01:51:25+00:00 sp309-171#12 I: End test suite:52:simple_arith.

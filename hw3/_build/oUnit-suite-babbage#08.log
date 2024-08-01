@@ -1,0 +1,15 @@
+2023-11-23T02:13:29+00:00 babbage#08 I: Start test suite:7:boolTest.
+2023-11-23T02:13:29+00:00 babbage#08 I: Test suite:7:boolTest is successful.
+2023-11-23T02:13:29+00:00 babbage#08 I: End test suite:7:boolTest.
+2023-11-23T02:13:29+00:00 babbage#08 I: Start test suite:31:mulTest_multiple.
+2023-11-23T02:13:29+00:00 babbage#08 I: Test suite:31:mulTest_multiple is successful.
+2023-11-23T02:13:29+00:00 babbage#08 I: End test suite:31:mulTest_multiple.
+2023-11-23T02:13:29+00:00 babbage#08 I: Start test suite:48:undec_var_arith.
+2023-11-23T02:13:29+00:00 babbage#08 I: Test suite:48:undec_var_arith is successful.
+2023-11-23T02:13:29+00:00 babbage#08 I: End test suite:48:undec_var_arith.
+2023-11-23T02:13:29+00:00 babbage#08 I: Start test suite:49:emptyProgram_fail.
+2023-11-23T02:13:29+00:00 babbage#08 I: Test suite:49:emptyProgram_fail is successful.
+2023-11-23T02:13:29+00:00 babbage#08 I: End test suite:49:emptyProgram_fail.
+2023-11-23T02:13:29+00:00 babbage#08 I: Start test suite:51:invDef_fail.
+2023-11-23T02:13:29+00:00 babbage#08 I: Test suite:51:invDef_fail is successful.
+2023-11-23T02:13:29+00:00 babbage#08 I: End test suite:51:invDef_fail.

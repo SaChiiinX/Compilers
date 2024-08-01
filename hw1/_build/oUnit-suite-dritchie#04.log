@@ -1,0 +1,15 @@
+2023-10-09T22:55:49+00:00 dritchie#04 I: Start test suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#04 I: Test suite:3:forty is successful.
+2023-10-09T22:55:49+00:00 dritchie#04 I: End test suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#04 I: Start test suite:24:bad_let.
+2023-10-09T22:55:49+00:00 dritchie#04 I: Test suite:24:bad_let is successful.
+2023-10-09T22:55:49+00:00 dritchie#04 I: End test suite:24:bad_let.
+2023-10-09T22:55:49+00:00 dritchie#04 I: Start test suite:26:failwords2.
+2023-10-09T22:55:49+00:00 dritchie#04 I: Test suite:26:failwords2 is successful.
+2023-10-09T22:55:49+00:00 dritchie#04 I: End test suite:26:failwords2.
+2023-10-09T22:55:49+00:00 dritchie#04 I: Start test suite:28:failID2.
+2023-10-09T22:55:49+00:00 dritchie#04 I: Test suite:28:failID2 is successful.
+2023-10-09T22:55:49+00:00 dritchie#04 I: End test suite:28:failID2.
+2023-10-09T22:55:49+00:00 dritchie#04 I: Start test suite:32:simple_let.
+2023-10-09T22:55:49+00:00 dritchie#04 I: Test suite:32:simple_let is successful.
+2023-10-09T22:55:49+00:00 dritchie#04 I: End test suite:32:simple_let.

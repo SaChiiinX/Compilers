@@ -1,0 +1,498 @@
+2023-11-23T02:13:29+00:00 babbage#00 I: Runner: processes
+2023-11-23T02:13:29+00:00 babbage#00 I: Chooser: simple
+2023-11-23T02:13:29+00:00 babbage#00 I: Configuration suite_name = "suite"
+2023-11-23T02:13:29+00:00 babbage#00 I: Configuration cache_filename = "/home/mfriend/cs331/mfriend-skchin/hw3/_build/oUnit-$(suite_name).cache"
+2023-11-23T02:13:29+00:00 babbage#00 I: Configuration run_gc_full_major = "true"
+2023-11-23T02:13:29+00:00 babbage#00 I: Configuration display = "true"
+2023-11-23T02:13:29+00:00 babbage#00 I: Configuration results_style_1_X = "false"
+2023-11-23T02:13:29+00:00 babbage#00 I: Configuration testdata_dir = "none"
+2023-11-23T02:13:29+00:00 babbage#00 I: Configuration health_check_interval = "1."
+2023-11-23T02:13:29+00:00 babbage#00 I: Configuration verbose = "false"
+2023-11-23T02:13:29+00:00 babbage#00 I: Configuration chooser = "simple"
+2023-11-23T02:13:29+00:00 babbage#00 I: Configuration output_html_dir = "none"
+2023-11-23T02:13:29+00:00 babbage#00 I: Configuration processes_kill_period = "5."
+2023-11-23T02:13:29+00:00 babbage#00 I: Configuration runner = "processes"
+2023-11-23T02:13:29+00:00 babbage#00 I: Configuration shards = "12"
+2023-11-23T02:13:29+00:00 babbage#00 I: Configuration processes_grace_period = "5."
+2023-11-23T02:13:29+00:00 babbage#00 I: Configuration log_encoding = "utf-8"
+2023-11-23T02:13:29+00:00 babbage#00 I: Configuration output_junit_file = "none"
+2023-11-23T02:13:29+00:00 babbage#00 I: Configuration ci = "false"
+2023-11-23T02:13:29+00:00 babbage#00 I: Configuration output_file = "/home/mfriend/cs331/mfriend-skchin/hw3/_build/oUnit-$(suite_name)-$(shard_id).log"
+2023-11-23T02:13:29+00:00 babbage#00 I: Using 12 workers maximum.
+2023-11-23T02:13:29+00:00 babbage#00 I: Starting worker number babbage#01.
+2023-11-23T02:13:29+00:00 babbage#00 I: Worker babbage#01 started.
+2023-11-23T02:13:29+00:00 babbage#00 I: Starting worker number babbage#02.
+2023-11-23T02:13:29+00:00 babbage#00 I: Worker babbage#02 started.
+2023-11-23T02:13:29+00:00 babbage#00 I: Starting worker number babbage#03.
+2023-11-23T02:13:29+00:00 babbage#00 I: Worker babbage#03 started.
+2023-11-23T02:13:29+00:00 babbage#00 I: Starting worker number babbage#04.
+2023-11-23T02:13:29+00:00 babbage#00 I: Worker babbage#04 started.
+2023-11-23T02:13:29+00:00 babbage#00 I: Starting worker number babbage#05.
+2023-11-23T02:13:29+00:00 babbage#00 I: Worker babbage#05 started.
+2023-11-23T02:13:29+00:00 babbage#00 I: Starting worker number babbage#06.
+2023-11-23T02:13:29+00:00 babbage#00 I: Worker babbage#06 started.
+2023-11-23T02:13:29+00:00 babbage#00 I: Starting worker number babbage#07.
+2023-11-23T02:13:29+00:00 babbage#00 I: Worker babbage#07 started.
+2023-11-23T02:13:29+00:00 babbage#00 I: Starting worker number babbage#08.
+2023-11-23T02:13:29+00:00 babbage#00 I: Worker babbage#08 started.
+2023-11-23T02:13:29+00:00 babbage#00 I: Starting worker number babbage#09.
+2023-11-23T02:13:29+00:00 babbage#00 I: Worker babbage#09 started.
+2023-11-23T02:13:29+00:00 babbage#00 I: Starting worker number babbage#10.
+2023-11-23T02:13:29+00:00 babbage#00 I: Worker babbage#10 started.
+2023-11-23T02:13:29+00:00 babbage#00 I: Starting worker number babbage#11.
+2023-11-23T02:13:29+00:00 babbage#00 I: Worker babbage#11 started.
+2023-11-23T02:13:29+00:00 babbage#00 I: Starting worker number babbage#12.
+2023-11-23T02:13:29+00:00 babbage#00 I: Worker babbage#12 started.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:1:defTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#01 I: Start test suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#02 I: Start test suite:1:defTest_parse.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:1:defTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#02 I: Test suite:1:defTest_parse is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:1:defTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#02 I: End test suite:1:defTest_parse.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:1:defTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:12:failID, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#02 I: Start test suite:12:failID.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:12:failID, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#02 I: Test suite:12:failID is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:12:failID, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#02 I: End test suite:12:failID.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:12:failID, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:13:inc_args, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#02 I: Start test suite:13:inc_args.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:13:inc_args, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#02 I: Test suite:13:inc_args is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:13:inc_args, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#02 I: End test suite:13:inc_args.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:13:inc_args, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:14:plus_args, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#02 I: Start test suite:14:plus_args.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:14:plus_args, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#02 I: Test suite:14:plus_args is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:14:plus_args, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#02 I: End test suite:14:plus_args.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:14:plus_args, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:15:if_cond, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#02 I: Start test suite:15:if_cond.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:15:if_cond, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#02 I: Test suite:15:if_cond is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:15:if_cond, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#02 I: End test suite:15:if_cond.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:15:if_cond, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:16:if_branch, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#02 I: Start test suite:16:if_branch.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:16:if_branch, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#02 I: Test suite:16:if_branch is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:16:if_branch, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#02 I: End test suite:16:if_branch.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:16:if_branch, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:17:arith_nested, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#02 I: Start test suite:17:arith_nested.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:17:arith_nested, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#02 I: Test suite:17:arith_nested is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:17:arith_nested, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#02 I: End test suite:17:arith_nested.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:17:arith_nested, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:18:comp, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#02 I: Start test suite:18:comp.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:18:comp, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#02 I: Test suite:18:comp is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:18:comp, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#02 I: End test suite:18:comp.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:18:comp, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:19:bad_logic, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#02 I: Start test suite:19:bad_logic.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:19:bad_logic, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#01 I: Test suite:0:forty_one_parse is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:19:bad_logic, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#01 I: End test suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:19:bad_logic, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse, suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:20:fun_body, suite:19:bad_logic, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse.
+2023-11-23T02:13:29+00:00 babbage#03 I: Start test suite:2:plusTest_parse.
+2023-11-23T02:13:29+00:00 babbage#04 I: Start test suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#05 I: Start test suite:4:forty.
+2023-11-23T02:13:29+00:00 babbage#06 I: Start test suite:5:add1.
+2023-11-23T02:13:29+00:00 babbage#07 I: Start test suite:6:ifTest.
+2023-11-23T02:13:29+00:00 babbage#08 I: Start test suite:7:boolTest.
+2023-11-23T02:13:29+00:00 babbage#09 I: Start test suite:8:defTest.
+2023-11-23T02:13:29+00:00 babbage#10 I: Start test suite:9:paritytest.
+2023-11-23T02:13:29+00:00 babbage#11 I: Start test suite:10:fibtest.
+2023-11-23T02:13:29+00:00 babbage#12 I: Start test suite:11:primtestrec.
+2023-11-23T02:13:29+00:00 babbage#02 I: Test suite:19:bad_logic is successful.
+2023-11-23T02:13:29+00:00 babbage#01 I: Start test suite:20:fun_body.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:20:fun_body, suite:19:bad_logic, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse.
+2023-11-23T02:13:29+00:00 babbage#02 I: End test suite:19:bad_logic.
+2023-11-23T02:13:29+00:00 babbage#01 I: Test suite:20:fun_body is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:20:fun_body, suite:19:bad_logic, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse.
+2023-11-23T02:13:29+00:00 babbage#01 I: End test suite:20:fun_body.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:21:fun_app, suite:20:fun_body, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse.
+2023-11-23T02:13:29+00:00 babbage#02 I: Start test suite:21:fun_app.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:22:mult_defs, suite:21:fun_app, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse.
+2023-11-23T02:13:29+00:00 babbage#01 I: Start test suite:22:mult_defs.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:22:mult_defs, suite:21:fun_app, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse.
+2023-11-23T02:13:29+00:00 babbage#01 I: Test suite:22:mult_defs is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:22:mult_defs, suite:21:fun_app, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse.
+2023-11-23T02:13:29+00:00 babbage#01 I: End test suite:22:mult_defs.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:22:mult_defs, suite:21:fun_app, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:23:mult_args, suite:21:fun_app, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse.
+2023-11-23T02:13:29+00:00 babbage#01 I: Start test suite:23:mult_args.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:23:mult_args, suite:21:fun_app, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse.
+2023-11-23T02:13:29+00:00 babbage#03 I: Test suite:2:plusTest_parse is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:23:mult_args, suite:21:fun_app, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse.
+2023-11-23T02:13:29+00:00 babbage#03 I: End test suite:2:plusTest_parse.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:23:mult_args, suite:21:fun_app, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one, suite:2:plusTest_parse.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:24:reserved_def, suite:23:mult_args, suite:21:fun_app, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#03 I: Start test suite:24:reserved_def.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:24:reserved_def, suite:23:mult_args, suite:21:fun_app, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#01 I: Test suite:23:mult_args is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:24:reserved_def, suite:23:mult_args, suite:21:fun_app, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#01 I: End test suite:23:mult_args.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:24:reserved_def, suite:23:mult_args, suite:21:fun_app, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:25:wrong_args1, suite:24:reserved_def, suite:21:fun_app, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#02 I: Test suite:21:fun_app is successful.
+2023-11-23T02:13:29+00:00 babbage#03 I: Test suite:24:reserved_def is successful.
+2023-11-23T02:13:29+00:00 babbage#01 I: Start test suite:25:wrong_args1.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:25:wrong_args1, suite:24:reserved_def, suite:21:fun_app, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#02 I: End test suite:21:fun_app.
+2023-11-23T02:13:29+00:00 babbage#03 I: End test suite:24:reserved_def.
+2023-11-23T02:13:29+00:00 babbage#01 I: Test suite:25:wrong_args1 is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:25:wrong_args1, suite:24:reserved_def, suite:21:fun_app, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#01 I: End test suite:25:wrong_args1.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:27:incTest_nested, suite:26:wrong_args2, suite:25:wrong_args1, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#03 I: Start test suite:26:wrong_args2.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:28:incTest_bool, suite:27:incTest_nested, suite:26:wrong_args2, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#01 I: Start test suite:28:incTest_bool.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:28:incTest_bool, suite:27:incTest_nested, suite:26:wrong_args2, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#02 I: Start test suite:27:incTest_nested.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:28:incTest_bool, suite:27:incTest_nested, suite:26:wrong_args2, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#03 I: Test suite:26:wrong_args2 is successful.
+2023-11-23T02:13:29+00:00 babbage#01 I: Test suite:28:incTest_bool is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:28:incTest_bool, suite:27:incTest_nested, suite:26:wrong_args2, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#03 I: End test suite:26:wrong_args2.
+2023-11-23T02:13:29+00:00 babbage#01 I: End test suite:28:incTest_bool.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:28:incTest_bool, suite:27:incTest_nested, suite:26:wrong_args2, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:30:addTest_addneg, suite:29:decTest_nested, suite:27:incTest_nested, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#01 I: Start test suite:29:decTest_nested.
+2023-11-23T02:13:29+00:00 babbage#03 I: Start test suite:30:addTest_addneg.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:30:addTest_addneg, suite:29:decTest_nested, suite:27:incTest_nested, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#08 I: Test suite:7:boolTest is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:30:addTest_addneg, suite:29:decTest_nested, suite:27:incTest_nested, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#08 I: End test suite:7:boolTest.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:30:addTest_addneg, suite:29:decTest_nested, suite:27:incTest_nested, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:7:boolTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:31:mulTest_multiple, suite:30:addTest_addneg, suite:29:decTest_nested, suite:27:incTest_nested, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#08 I: Start test suite:31:mulTest_multiple.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:31:mulTest_multiple, suite:30:addTest_addneg, suite:29:decTest_nested, suite:27:incTest_nested, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#06 I: Test suite:5:add1 is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:31:mulTest_multiple, suite:30:addTest_addneg, suite:29:decTest_nested, suite:27:incTest_nested, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#06 I: End test suite:5:add1.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:31:mulTest_multiple, suite:30:addTest_addneg, suite:29:decTest_nested, suite:27:incTest_nested, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:6:ifTest, suite:5:add1, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:32:simple_arith, suite:31:mulTest_multiple, suite:30:addTest_addneg, suite:29:decTest_nested, suite:27:incTest_nested, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:6:ifTest, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#06 I: Start test suite:32:simple_arith.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:32:simple_arith, suite:31:mulTest_multiple, suite:30:addTest_addneg, suite:29:decTest_nested, suite:27:incTest_nested, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:6:ifTest, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#11 I: Test suite:10:fibtest is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:32:simple_arith, suite:31:mulTest_multiple, suite:30:addTest_addneg, suite:29:decTest_nested, suite:27:incTest_nested, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:6:ifTest, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#11 I: End test suite:10:fibtest.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:32:simple_arith, suite:31:mulTest_multiple, suite:30:addTest_addneg, suite:29:decTest_nested, suite:27:incTest_nested, suite:11:primtestrec, suite:10:fibtest, suite:9:paritytest, suite:8:defTest, suite:6:ifTest, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:30:addTest_addneg, suite:29:decTest_nested, suite:27:incTest_nested, suite:11:primtestrec, suite:9:paritytest, suite:8:defTest, suite:6:ifTest, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#09 I: Test suite:8:defTest is successful.
+2023-11-23T02:13:29+00:00 babbage#11 I: Start test suite:33:complex_arith.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:30:addTest_addneg, suite:29:decTest_nested, suite:27:incTest_nested, suite:11:primtestrec, suite:9:paritytest, suite:8:defTest, suite:6:ifTest, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#09 I: End test suite:8:defTest.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:30:addTest_addneg, suite:29:decTest_nested, suite:27:incTest_nested, suite:11:primtestrec, suite:9:paritytest, suite:8:defTest, suite:6:ifTest, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:30:addTest_addneg, suite:29:decTest_nested, suite:27:incTest_nested, suite:11:primtestrec, suite:9:paritytest, suite:6:ifTest, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#09 I: Start test suite:34:varTest_sub.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:30:addTest_addneg, suite:29:decTest_nested, suite:27:incTest_nested, suite:11:primtestrec, suite:9:paritytest, suite:6:ifTest, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#10 I: Test suite:9:paritytest is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:30:addTest_addneg, suite:29:decTest_nested, suite:27:incTest_nested, suite:11:primtestrec, suite:9:paritytest, suite:6:ifTest, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#10 I: End test suite:9:paritytest.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:30:addTest_addneg, suite:29:decTest_nested, suite:27:incTest_nested, suite:11:primtestrec, suite:9:paritytest, suite:6:ifTest, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#04 I: Test suite:3:forty_one is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:35:letTest_simple, suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:30:addTest_addneg, suite:29:decTest_nested, suite:27:incTest_nested, suite:11:primtestrec, suite:6:ifTest, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#04 I: End test suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#10 I: Start test suite:35:letTest_simple.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:35:letTest_simple, suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:30:addTest_addneg, suite:29:decTest_nested, suite:27:incTest_nested, suite:11:primtestrec, suite:6:ifTest, suite:4:forty, suite:3:forty_one.
+2023-11-23T02:13:29+00:00 babbage#03 I: Test suite:30:addTest_addneg is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:30:addTest_addneg, suite:29:decTest_nested, suite:27:incTest_nested, suite:11:primtestrec, suite:6:ifTest, suite:4:forty.
+2023-11-23T02:13:29+00:00 babbage#03 I: End test suite:30:addTest_addneg.
+2023-11-23T02:13:29+00:00 babbage#04 I: Start test suite:36:letTest_nested.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:30:addTest_addneg, suite:29:decTest_nested, suite:27:incTest_nested, suite:11:primtestrec, suite:6:ifTest, suite:4:forty.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:37:ifTest_1, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:29:decTest_nested, suite:27:incTest_nested, suite:11:primtestrec, suite:6:ifTest, suite:4:forty.
+2023-11-23T02:13:29+00:00 babbage#03 I: Start test suite:37:ifTest_1.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:37:ifTest_1, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:29:decTest_nested, suite:27:incTest_nested, suite:11:primtestrec, suite:6:ifTest, suite:4:forty.
+2023-11-23T02:13:29+00:00 babbage#03 I: Test suite:37:ifTest_1 is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:37:ifTest_1, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:29:decTest_nested, suite:27:incTest_nested, suite:11:primtestrec, suite:6:ifTest, suite:4:forty.
+2023-11-23T02:13:29+00:00 babbage#12 I: Test suite:11:primtestrec is successful.
+2023-11-23T02:13:29+00:00 babbage#02 I: Test suite:27:incTest_nested is successful.
+2023-11-23T02:13:29+00:00 babbage#03 I: End test suite:37:ifTest_1.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:37:ifTest_1, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:29:decTest_nested, suite:27:incTest_nested, suite:11:primtestrec, suite:6:ifTest, suite:4:forty.
+2023-11-23T02:13:29+00:00 babbage#12 I: End test suite:11:primtestrec.
+2023-11-23T02:13:29+00:00 babbage#02 I: End test suite:27:incTest_nested.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:29:decTest_nested, suite:27:incTest_nested, suite:11:primtestrec, suite:6:ifTest, suite:4:forty.
+2023-11-23T02:13:29+00:00 babbage#03 I: Start test suite:38:ifTest_2.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:29:decTest_nested, suite:6:ifTest, suite:4:forty.
+2023-11-23T02:13:29+00:00 babbage#02 I: Start test suite:39:ifTest_3.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:29:decTest_nested, suite:6:ifTest, suite:4:forty.
+2023-11-23T02:13:29+00:00 babbage#12 I: Start test suite:40:compTest_simple.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:29:decTest_nested, suite:6:ifTest, suite:4:forty.
+2023-11-23T02:13:29+00:00 babbage#07 I: Test suite:6:ifTest is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:29:decTest_nested, suite:6:ifTest, suite:4:forty.
+2023-11-23T02:13:29+00:00 babbage#07 I: End test suite:6:ifTest.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:29:decTest_nested, suite:6:ifTest, suite:4:forty.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:41:compTest_fail, suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:29:decTest_nested, suite:4:forty.
+2023-11-23T02:13:29+00:00 babbage#07 I: Start test suite:41:compTest_fail.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:41:compTest_fail, suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:29:decTest_nested, suite:4:forty.
+2023-11-23T02:13:29+00:00 babbage#07 I: Test suite:41:compTest_fail is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:41:compTest_fail, suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:29:decTest_nested, suite:4:forty.
+2023-11-23T02:13:29+00:00 babbage#07 I: End test suite:41:compTest_fail.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:41:compTest_fail, suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:29:decTest_nested, suite:4:forty.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:42:setTest_1, suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:29:decTest_nested, suite:4:forty.
+2023-11-23T02:13:29+00:00 babbage#07 I: Start test suite:42:setTest_1.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:42:setTest_1, suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:29:decTest_nested, suite:4:forty.
+2023-11-23T02:13:29+00:00 babbage#01 I: Test suite:29:decTest_nested is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:42:setTest_1, suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:29:decTest_nested, suite:4:forty.
+2023-11-23T02:13:29+00:00 babbage#01 I: End test suite:29:decTest_nested.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:42:setTest_1, suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:29:decTest_nested, suite:4:forty.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:4:forty.
+2023-11-23T02:13:29+00:00 babbage#01 I: Start test suite:43:setTest_2.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:4:forty.
+2023-11-23T02:13:29+00:00 babbage#05 I: Test suite:4:forty is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:4:forty.
+2023-11-23T02:13:29+00:00 babbage#05 I: End test suite:4:forty.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple, suite:4:forty.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple.
+2023-11-23T02:13:29+00:00 babbage#05 I: Start test suite:44:whileTest_nested.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple.
+2023-11-23T02:13:29+00:00 babbage#11 I: Test suite:33:complex_arith is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple.
+2023-11-23T02:13:29+00:00 babbage#11 I: End test suite:33:complex_arith.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:33:complex_arith, suite:32:simple_arith, suite:31:mulTest_multiple.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:45:whileTest_fail, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:32:simple_arith, suite:31:mulTest_multiple.
+2023-11-23T02:13:29+00:00 babbage#11 I: Start test suite:45:whileTest_fail.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:45:whileTest_fail, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:32:simple_arith, suite:31:mulTest_multiple.
+2023-11-23T02:13:29+00:00 babbage#11 I: Test suite:45:whileTest_fail is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:45:whileTest_fail, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:32:simple_arith, suite:31:mulTest_multiple.
+2023-11-23T02:13:29+00:00 babbage#06 I: Test suite:32:simple_arith is successful.
+2023-11-23T02:13:29+00:00 babbage#11 I: End test suite:45:whileTest_fail.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:45:whileTest_fail, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:32:simple_arith, suite:31:mulTest_multiple.
+2023-11-23T02:13:29+00:00 babbage#06 I: End test suite:32:simple_arith.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:32:simple_arith, suite:31:mulTest_multiple.
+2023-11-23T02:13:29+00:00 babbage#11 I: Start test suite:46:doTest_intense.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:31:mulTest_multiple.
+2023-11-23T02:13:29+00:00 babbage#06 I: Start test suite:47:forTest.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:31:mulTest_multiple.
+2023-11-23T02:13:29+00:00 babbage#08 I: Test suite:31:mulTest_multiple is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:31:mulTest_multiple.
+2023-11-23T02:13:29+00:00 babbage#08 I: End test suite:31:mulTest_multiple.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub, suite:31:mulTest_multiple.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:48:undec_var_arith, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub.
+2023-11-23T02:13:29+00:00 babbage#08 I: Start test suite:48:undec_var_arith.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:48:undec_var_arith, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub.
+2023-11-23T02:13:29+00:00 babbage#08 I: Test suite:48:undec_var_arith is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:48:undec_var_arith, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub.
+2023-11-23T02:13:29+00:00 babbage#08 I: End test suite:48:undec_var_arith.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:48:undec_var_arith, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub.
+2023-11-23T02:13:29+00:00 babbage#03 I: Test suite:38:ifTest_2 is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:49:emptyProgram_fail, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub.
+2023-11-23T02:13:29+00:00 babbage#03 I: End test suite:38:ifTest_2.
+2023-11-23T02:13:29+00:00 babbage#08 I: Start test suite:49:emptyProgram_fail.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:49:emptyProgram_fail, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:39:ifTest_3, suite:38:ifTest_2, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:50:resName_fail, suite:49:emptyProgram_fail, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:39:ifTest_3, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub.
+2023-11-23T02:13:29+00:00 babbage#04 I: Test suite:36:letTest_nested is successful.
+2023-11-23T02:13:29+00:00 babbage#08 I: Test suite:49:emptyProgram_fail is successful.
+2023-11-23T02:13:29+00:00 babbage#03 I: Start test suite:50:resName_fail.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:50:resName_fail, suite:49:emptyProgram_fail, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:39:ifTest_3, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub.
+2023-11-23T02:13:29+00:00 babbage#04 I: End test suite:36:letTest_nested.
+2023-11-23T02:13:29+00:00 babbage#02 I: Test suite:39:ifTest_3 is successful.
+2023-11-23T02:13:29+00:00 babbage#08 I: End test suite:49:emptyProgram_fail.
+2023-11-23T02:13:29+00:00 babbage#03 I: Test suite:50:resName_fail is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:50:resName_fail, suite:49:emptyProgram_fail, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:39:ifTest_3, suite:36:letTest_nested, suite:35:letTest_simple, suite:34:varTest_sub.
+2023-11-23T02:13:29+00:00 babbage#02 I: End test suite:39:ifTest_3.
+2023-11-23T02:13:29+00:00 babbage#03 I: End test suite:50:resName_fail.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:52:invExpr_fail, suite:51:invDef_fail, suite:50:resName_fail, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:39:ifTest_3, suite:35:letTest_simple, suite:34:varTest_sub.
+2023-11-23T02:13:29+00:00 babbage#08 I: Start test suite:51:invDef_fail.
+2023-11-23T02:13:29+00:00 babbage#00 I: Still 12 tests running : suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:52:invExpr_fail, suite:51:invDef_fail, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:35:letTest_simple, suite:34:varTest_sub.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:52:invExpr_fail, suite:51:invDef_fail, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:35:letTest_simple, suite:34:varTest_sub.
+2023-11-23T02:13:29+00:00 babbage#04 I: Start test suite:52:invExpr_fail.
+2023-11-23T02:13:29+00:00 babbage#03 I: Start test suite:53:recursiveFourArgFuncTest.
+2023-11-23T02:13:29+00:00 babbage#02 I: Start test suite:54:nestedFourArgFuncTest.
+2023-11-23T02:13:29+00:00 babbage#00 I: Still 12 tests running : suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:52:invExpr_fail, suite:51:invDef_fail, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:35:letTest_simple, suite:34:varTest_sub.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:52:invExpr_fail, suite:51:invDef_fail, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:35:letTest_simple, suite:34:varTest_sub.
+2023-11-23T02:13:29+00:00 babbage#08 I: Test suite:51:invDef_fail is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: Still 12 tests running : suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:52:invExpr_fail, suite:51:invDef_fail, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:35:letTest_simple, suite:34:varTest_sub.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:52:invExpr_fail, suite:51:invDef_fail, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:35:letTest_simple, suite:34:varTest_sub.
+2023-11-23T02:13:29+00:00 babbage#09 I: Test suite:34:varTest_sub is successful.
+2023-11-23T02:13:29+00:00 babbage#12 I: Test suite:40:compTest_simple is successful.
+2023-11-23T02:13:29+00:00 babbage#08 I: End test suite:51:invDef_fail.
+2023-11-23T02:13:29+00:00 babbage#04 I: Test suite:52:invExpr_fail is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: Still 12 tests running : suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:52:invExpr_fail, suite:51:invDef_fail, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:35:letTest_simple, suite:34:varTest_sub.
+2023-11-23T02:13:29+00:00 babbage#00 I: 12 tests running: suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:52:invExpr_fail, suite:51:invDef_fail, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:35:letTest_simple, suite:34:varTest_sub.
+2023-11-23T02:13:29+00:00 babbage#09 I: End test suite:34:varTest_sub.
+2023-11-23T02:13:29+00:00 babbage#12 I: End test suite:40:compTest_simple.
+2023-11-23T02:13:29+00:00 babbage#04 I: End test suite:52:invExpr_fail.
+2023-11-23T02:13:29+00:00 babbage#00 I: Still 11 tests running : suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:52:invExpr_fail, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:35:letTest_simple, suite:34:varTest_sub.
+2023-11-23T02:13:29+00:00 babbage#00 I: 11 tests running: suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:52:invExpr_fail, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:40:compTest_simple, suite:35:letTest_simple, suite:34:varTest_sub.
+2023-11-23T02:13:29+00:00 babbage#10 I: Test suite:35:letTest_simple is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: Still 8 tests running : suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:35:letTest_simple.
+2023-11-23T02:13:29+00:00 babbage#00 I: 8 tests running: suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:35:letTest_simple.
+2023-11-23T02:13:29+00:00 babbage#10 I: End test suite:35:letTest_simple.
+2023-11-23T02:13:29+00:00 babbage#00 I: Still 8 tests running : suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:35:letTest_simple.
+2023-11-23T02:13:29+00:00 babbage#00 I: 8 tests running: suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1, suite:35:letTest_simple.
+2023-11-23T02:13:29+00:00 babbage#00 I: Still 7 tests running : suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1.
+2023-11-23T02:13:29+00:00 babbage#00 I: 7 tests running: suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1.
+2023-11-23T02:13:29+00:00 babbage#01 I: Test suite:43:setTest_2 is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: Still 7 tests running : suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1.
+2023-11-23T02:13:29+00:00 babbage#00 I: 7 tests running: suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1.
+2023-11-23T02:13:29+00:00 babbage#01 I: End test suite:43:setTest_2.
+2023-11-23T02:13:29+00:00 babbage#00 I: Still 7 tests running : suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1.
+2023-11-23T02:13:29+00:00 babbage#00 I: 7 tests running: suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:43:setTest_2, suite:42:setTest_1.
+2023-11-23T02:13:29+00:00 babbage#00 I: Still 6 tests running : suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:42:setTest_1.
+2023-11-23T02:13:29+00:00 babbage#00 I: 6 tests running: suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:42:setTest_1.
+2023-11-23T02:13:29+00:00 babbage#07 I: Test suite:42:setTest_1 is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: Still 6 tests running : suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:42:setTest_1.
+2023-11-23T02:13:29+00:00 babbage#00 I: 6 tests running: suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:42:setTest_1.
+2023-11-23T02:13:29+00:00 babbage#07 I: End test suite:42:setTest_1.
+2023-11-23T02:13:29+00:00 babbage#00 I: Still 6 tests running : suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:42:setTest_1.
+2023-11-23T02:13:29+00:00 babbage#00 I: 6 tests running: suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested, suite:42:setTest_1.
+2023-11-23T02:13:29+00:00 babbage#00 I: Still 5 tests running : suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested.
+2023-11-23T02:13:29+00:00 babbage#00 I: 5 tests running: suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested.
+2023-11-23T02:13:29+00:00 babbage#05 I: Test suite:44:whileTest_nested is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: Still 5 tests running : suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested.
+2023-11-23T02:13:29+00:00 babbage#00 I: 5 tests running: suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested.
+2023-11-23T02:13:29+00:00 babbage#05 I: End test suite:44:whileTest_nested.
+2023-11-23T02:13:29+00:00 babbage#00 I: Still 5 tests running : suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested.
+2023-11-23T02:13:29+00:00 babbage#00 I: 5 tests running: suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest, suite:46:doTest_intense, suite:44:whileTest_nested.
+2023-11-23T02:13:29+00:00 babbage#00 I: Still 4 tests running : suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest, suite:46:doTest_intense.
+2023-11-23T02:13:29+00:00 babbage#00 I: 4 tests running: suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest, suite:46:doTest_intense.
+2023-11-23T02:13:29+00:00 babbage#11 I: Test suite:46:doTest_intense is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: Still 4 tests running : suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest, suite:46:doTest_intense.
+2023-11-23T02:13:29+00:00 babbage#00 I: 4 tests running: suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest, suite:46:doTest_intense.
+2023-11-23T02:13:29+00:00 babbage#11 I: End test suite:46:doTest_intense.
+2023-11-23T02:13:29+00:00 babbage#00 I: Still 4 tests running : suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest, suite:46:doTest_intense.
+2023-11-23T02:13:29+00:00 babbage#00 I: 4 tests running: suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest, suite:46:doTest_intense.
+2023-11-23T02:13:29+00:00 babbage#00 I: Still 3 tests running : suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest.
+2023-11-23T02:13:29+00:00 babbage#00 I: 3 tests running: suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest.
+2023-11-23T02:13:29+00:00 babbage#06 I: Test suite:47:forTest is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: Still 3 tests running : suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest.
+2023-11-23T02:13:29+00:00 babbage#00 I: 3 tests running: suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest.
+2023-11-23T02:13:29+00:00 babbage#06 I: End test suite:47:forTest.
+2023-11-23T02:13:29+00:00 babbage#00 I: Still 3 tests running : suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest.
+2023-11-23T02:13:29+00:00 babbage#00 I: 3 tests running: suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest, suite:47:forTest.
+2023-11-23T02:13:29+00:00 babbage#00 I: Still 2 tests running : suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest.
+2023-11-23T02:13:29+00:00 babbage#00 I: 2 tests running: suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest.
+2023-11-23T02:13:29+00:00 babbage#02 I: Test suite:54:nestedFourArgFuncTest is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: Still 2 tests running : suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest.
+2023-11-23T02:13:29+00:00 babbage#00 I: 2 tests running: suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest.
+2023-11-23T02:13:29+00:00 babbage#02 I: End test suite:54:nestedFourArgFuncTest.
+2023-11-23T02:13:29+00:00 babbage#00 I: Still 2 tests running : suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest.
+2023-11-23T02:13:29+00:00 babbage#00 I: 2 tests running: suite:54:nestedFourArgFuncTest, suite:53:recursiveFourArgFuncTest.
+2023-11-23T02:13:29+00:00 babbage#00 I: Still 1 tests running : suite:53:recursiveFourArgFuncTest.
+2023-11-23T02:13:29+00:00 babbage#00 I: 1 tests running: suite:53:recursiveFourArgFuncTest.
+2023-11-23T02:13:29+00:00 babbage#03 I: Test suite:53:recursiveFourArgFuncTest is successful.
+2023-11-23T02:13:29+00:00 babbage#00 I: Still 1 tests running : suite:53:recursiveFourArgFuncTest.
+2023-11-23T02:13:29+00:00 babbage#00 I: 1 tests running: suite:53:recursiveFourArgFuncTest.
+2023-11-23T02:13:29+00:00 babbage#03 I: End test suite:53:recursiveFourArgFuncTest.
+2023-11-23T02:13:29+00:00 babbage#00 I: Still 1 tests running : suite:53:recursiveFourArgFuncTest.
+2023-11-23T02:13:29+00:00 babbage#00 I: 1 tests running: suite:53:recursiveFourArgFuncTest.
+2023-11-23T02:13:29+00:00 babbage#00 I: 0 tests running: .
+2023-11-23T02:13:29+00:00 babbage#00 I: Worker babbage#08 has ended.
+2023-11-23T02:13:30+00:00 babbage#00 I: Worker babbage#09 has ended.
+2023-11-23T02:13:30+00:00 babbage#00 I: Worker babbage#12 has ended.
+2023-11-23T02:13:30+00:00 babbage#00 I: Worker babbage#04 has ended.
+2023-11-23T02:13:30+00:00 babbage#00 I: Worker babbage#10 has ended.
+2023-11-23T02:13:30+00:00 babbage#00 I: Worker babbage#01 has ended.
+2023-11-23T02:13:30+00:00 babbage#00 I: Worker babbage#07 has ended.
+2023-11-23T02:13:30+00:00 babbage#00 I: Worker babbage#05 has ended.
+2023-11-23T02:13:30+00:00 babbage#00 I: Worker babbage#11 has ended.
+2023-11-23T02:13:30+00:00 babbage#00 I: Worker babbage#06 has ended.
+2023-11-23T02:13:30+00:00 babbage#00 I: Worker babbage#02 has ended.
+2023-11-23T02:13:30+00:00 babbage#00 I: Worker babbage#03 has ended.
+2023-11-23T02:13:30+00:00 babbage#00 I: Used 12 worker during test execution.
+2023-11-23T02:13:30+00:00 babbage#00 I: Run 2 tests with shard babbage#10.
+2023-11-23T02:13:30+00:00 babbage#00 I: Run 3 tests with shard babbage#04.
+2023-11-23T02:13:30+00:00 babbage#00 I: Run 2 tests with shard babbage#12.
+2023-11-23T02:13:30+00:00 babbage#00 I: Run 2 tests with shard babbage#05.
+2023-11-23T02:13:30+00:00 babbage#00 I: Run 8 tests with shard babbage#03.
+2023-11-23T02:13:30+00:00 babbage#00 I: Run 13 tests with shard babbage#02.
+2023-11-23T02:13:30+00:00 babbage#00 I: Run 3 tests with shard babbage#07.
+2023-11-23T02:13:30+00:00 babbage#00 I: Run 4 tests with shard babbage#11.
+2023-11-23T02:13:30+00:00 babbage#00 I: Run 8 tests with shard babbage#01.
+2023-11-23T02:13:30+00:00 babbage#00 I: Run 2 tests with shard babbage#09.
+2023-11-23T02:13:30+00:00 babbage#00 I: Run 3 tests with shard babbage#06.
+2023-11-23T02:13:30+00:00 babbage#00 I: Run 5 tests with shard babbage#08.
+2023-11-23T02:13:30+00:00 babbage#00 I: Check health of shard babbage#10, 22 times.
+2023-11-23T02:13:30+00:00 babbage#00 I: Check health of shard babbage#04, 24 times.
+2023-11-23T02:13:30+00:00 babbage#00 I: Check health of shard babbage#12, 24 times.
+2023-11-23T02:13:30+00:00 babbage#00 I: Check health of shard babbage#05, 13 times.
+2023-11-23T02:13:30+00:00 babbage#00 I: Check health of shard babbage#03, 1 times.
+2023-11-23T02:13:30+00:00 babbage#00 I: Check health of shard babbage#07, 16 times.
+2023-11-23T02:13:30+00:00 babbage#00 I: Check health of shard babbage#11, 10 times.
+2023-11-23T02:13:30+00:00 babbage#00 I: Check health of shard babbage#02, 4 times.
+2023-11-23T02:13:30+00:00 babbage#00 I: Check health of shard babbage#09, 24 times.
+2023-11-23T02:13:30+00:00 babbage#00 I: Check health of shard babbage#01, 19 times.
+2023-11-23T02:13:30+00:00 babbage#00 I: Check health of shard babbage#06, 7 times.
+2023-11-23T02:13:30+00:00 babbage#00 I: Check health of shard babbage#08, 25 times.
+2023-11-23T02:13:30+00:00 babbage#00 I: ==============
+2023-11-23T02:13:30+00:00 babbage#00 I: Summary:
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:53:recursiveFourArgFuncTest is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:54:nestedFourArgFuncTest is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:47:forTest is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:46:doTest_intense is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:44:whileTest_nested is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:42:setTest_1 is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:43:setTest_2 is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:35:letTest_simple is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:52:invExpr_fail is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:40:compTest_simple is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:34:varTest_sub is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:51:invDef_fail is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:50:resName_fail is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:39:ifTest_3 is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:49:emptyProgram_fail is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:36:letTest_nested is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:38:ifTest_2 is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:48:undec_var_arith is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:31:mulTest_multiple is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:32:simple_arith is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:45:whileTest_fail is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:33:complex_arith is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:4:forty is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:29:decTest_nested is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:41:compTest_fail is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:6:ifTest is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:27:incTest_nested is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:11:primtestrec is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:37:ifTest_1 is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:30:addTest_addneg is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:3:forty_one is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:9:paritytest is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:8:defTest is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:10:fibtest is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:5:add1 is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:7:boolTest is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:28:incTest_bool is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:26:wrong_args2 is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:25:wrong_args1 is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:24:reserved_def is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:21:fun_app is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:23:mult_args is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:2:plusTest_parse is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:22:mult_defs is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:20:fun_body is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:19:bad_logic is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:0:forty_one_parse is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:18:comp is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:17:arith_nested is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:16:if_branch is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:15:if_cond is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:14:plus_args is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:13:inc_args is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:12:failID is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Test suite:1:defTest_parse is successful.
+2023-11-23T02:13:30+00:00 babbage#00 I: Ran: 55 tests in: 0.40 seconds.
+2023-11-23T02:13:30+00:00 babbage#00 I: Cases: 55.
+2023-11-23T02:13:30+00:00 babbage#00 I: Tried: 55.
+2023-11-23T02:13:30+00:00 babbage#00 I: Errors: 0.
+2023-11-23T02:13:30+00:00 babbage#00 I: Failures: 0.
+2023-11-23T02:13:30+00:00 babbage#00 I: Skip: 0.
+2023-11-23T02:13:30+00:00 babbage#00 I: Todo: 0.
+2023-11-23T02:13:30+00:00 babbage#00 I: Timeout: 0.

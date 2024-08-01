@@ -1,0 +1,10 @@
+(def (rem x : Num y : Num) : Num
+(if (< x y) x (rem (- x y) y)))
+
+(def (helper x : Num y : Num) : Bool
+  (if (< y x) (if (= (rem x y) 0) false (helper x (inc y))) true))
+
+(def (isPrime x : Num) : Bool 
+  (helper x 2))
+
+(isPrime 12) 

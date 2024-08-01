@@ -1,0 +1,30 @@
+2023-10-09T20:07:31+00:00 babbage#02 I: Start test suite:1:nested_bind_parse.
+2023-10-09T20:07:31+00:00 babbage#02 I: Test suite:1:nested_bind_parse is successful.
+2023-10-09T20:07:31+00:00 babbage#02 I: End test suite:1:nested_bind_parse.
+2023-10-09T20:07:31+00:00 babbage#02 I: Start test suite:13:nested_arith2.
+2023-10-09T20:07:31+00:00 babbage#02 I: Test suite:13:nested_arith2 is successful.
+2023-10-09T20:07:31+00:00 babbage#02 I: End test suite:13:nested_arith2.
+2023-10-09T20:07:31+00:00 babbage#02 I: Start test suite:21:failLet.
+2023-10-09T20:07:32+00:00 babbage#02 I: Test suite:21:failLet is successful.
+2023-10-09T20:07:32+00:00 babbage#02 I: End test suite:21:failLet.
+2023-10-09T20:07:32+00:00 babbage#02 I: Start test suite:22:failLet2.
+2023-10-09T20:07:32+00:00 babbage#02 I: Test suite:22:failLet2 is successful.
+2023-10-09T20:07:32+00:00 babbage#02 I: End test suite:22:failLet2.
+2023-10-09T20:07:32+00:00 babbage#02 I: Start test suite:23:empty_let.
+2023-10-09T20:07:32+00:00 babbage#02 I: Test suite:23:empty_let is successful.
+2023-10-09T20:07:32+00:00 babbage#02 I: End test suite:23:empty_let.
+2023-10-09T20:07:32+00:00 babbage#02 I: Start test suite:24:bad_let.
+2023-10-09T20:07:32+00:00 babbage#02 I: Test suite:24:bad_let is successful.
+2023-10-09T20:07:32+00:00 babbage#02 I: End test suite:24:bad_let.
+2023-10-09T20:07:32+00:00 babbage#02 I: Start test suite:25:failwords.
+2023-10-09T20:07:32+00:00 babbage#02 I: Test suite:25:failwords is successful.
+2023-10-09T20:07:32+00:00 babbage#02 I: End test suite:25:failwords.
+2023-10-09T20:07:32+00:00 babbage#02 I: Start test suite:26:failwords2.
+2023-10-09T20:07:32+00:00 babbage#02 I: Test suite:26:failwords2 is successful.
+2023-10-09T20:07:32+00:00 babbage#02 I: End test suite:26:failwords2.
+2023-10-09T20:07:32+00:00 babbage#02 I: Start test suite:27:failID.
+2023-10-09T20:07:32+00:00 babbage#02 I: Test suite:27:failID is successful.
+2023-10-09T20:07:32+00:00 babbage#02 I: End test suite:27:failID.
+2023-10-09T20:07:32+00:00 babbage#02 I: Start test suite:29:add_neg.
+2023-10-09T20:07:32+00:00 babbage#02 I: Test suite:29:add_neg is successful.
+2023-10-09T20:07:32+00:00 babbage#02 I: End test suite:29:add_neg.

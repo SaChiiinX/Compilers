@@ -1,0 +1,21 @@
+2023-11-15T01:51:24+00:00 sp309-171#07 I: Start test suite:6:def_x2.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: Test suite:6:def_x2 is successful.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: End test suite:6:def_x2.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: Start test suite:37:doWhileFail.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: Test suite:37:doWhileFail is successful.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: End test suite:37:doWhileFail.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: Start test suite:38:myTest_1.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: Test suite:38:myTest_1 is successful.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: End test suite:38:myTest_1.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: Start test suite:39:myTest_2.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: Test suite:39:myTest_2 is successful.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: End test suite:39:myTest_2.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: Start test suite:40:myTest_3.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: Test suite:40:myTest_3 is successful.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: End test suite:40:myTest_3.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: Start test suite:42:myTest_6.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: Test suite:42:myTest_6 is successful.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: End test suite:42:myTest_6.
+2023-11-15T01:51:24+00:00 sp309-171#07 I: Start test suite:57:var_test.
+2023-11-15T01:51:25+00:00 sp309-171#07 I: Test suite:57:var_test is successful.
+2023-11-15T01:51:25+00:00 sp309-171#07 I: End test suite:57:var_test.

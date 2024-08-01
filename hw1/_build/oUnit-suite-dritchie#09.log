@@ -1,0 +1,9 @@
+2023-10-09T22:55:49+00:00 dritchie#09 I: Start test suite:8:def_x4.
+2023-10-09T22:55:49+00:00 dritchie#09 I: Test suite:8:def_x4 is successful.
+2023-10-09T22:55:49+00:00 dritchie#09 I: End test suite:8:def_x4.
+2023-10-09T22:55:49+00:00 dritchie#09 I: Start test suite:16:nested_bind.
+2023-10-09T22:55:49+00:00 dritchie#09 I: Test suite:16:nested_bind is successful.
+2023-10-09T22:55:49+00:00 dritchie#09 I: End test suite:16:nested_bind.
+2023-10-09T22:55:49+00:00 dritchie#09 I: Start test suite:34:simple_arith.
+2023-10-09T22:55:49+00:00 dritchie#09 I: Test suite:34:simple_arith is successful.
+2023-10-09T22:55:49+00:00 dritchie#09 I: End test suite:34:simple_arith.

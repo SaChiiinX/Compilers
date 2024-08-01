@@ -1,0 +1,24 @@
+2023-11-23T02:13:29+00:00 babbage#01 I: Start test suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#01 I: Test suite:0:forty_one_parse is successful.
+2023-11-23T02:13:29+00:00 babbage#01 I: End test suite:0:forty_one_parse.
+2023-11-23T02:13:29+00:00 babbage#01 I: Start test suite:20:fun_body.
+2023-11-23T02:13:29+00:00 babbage#01 I: Test suite:20:fun_body is successful.
+2023-11-23T02:13:29+00:00 babbage#01 I: End test suite:20:fun_body.
+2023-11-23T02:13:29+00:00 babbage#01 I: Start test suite:22:mult_defs.
+2023-11-23T02:13:29+00:00 babbage#01 I: Test suite:22:mult_defs is successful.
+2023-11-23T02:13:29+00:00 babbage#01 I: End test suite:22:mult_defs.
+2023-11-23T02:13:29+00:00 babbage#01 I: Start test suite:23:mult_args.
+2023-11-23T02:13:29+00:00 babbage#01 I: Test suite:23:mult_args is successful.
+2023-11-23T02:13:29+00:00 babbage#01 I: End test suite:23:mult_args.
+2023-11-23T02:13:29+00:00 babbage#01 I: Start test suite:25:wrong_args1.
+2023-11-23T02:13:29+00:00 babbage#01 I: Test suite:25:wrong_args1 is successful.
+2023-11-23T02:13:29+00:00 babbage#01 I: End test suite:25:wrong_args1.
+2023-11-23T02:13:29+00:00 babbage#01 I: Start test suite:28:incTest_bool.
+2023-11-23T02:13:29+00:00 babbage#01 I: Test suite:28:incTest_bool is successful.
+2023-11-23T02:13:29+00:00 babbage#01 I: End test suite:28:incTest_bool.
+2023-11-23T02:13:29+00:00 babbage#01 I: Start test suite:29:decTest_nested.
+2023-11-23T02:13:29+00:00 babbage#01 I: Test suite:29:decTest_nested is successful.
+2023-11-23T02:13:29+00:00 babbage#01 I: End test suite:29:decTest_nested.
+2023-11-23T02:13:29+00:00 babbage#01 I: Start test suite:43:setTest_2.
+2023-11-23T02:13:29+00:00 babbage#01 I: Test suite:43:setTest_2 is successful.
+2023-11-23T02:13:29+00:00 babbage#01 I: End test suite:43:setTest_2.

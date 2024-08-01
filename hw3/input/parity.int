@@ -1,0 +1,7 @@
+(def (even n : Num) : Bool 
+(if (= n 0) true (odd (- n 1))))
+
+(def (odd n : Num) : Bool
+(if (= n 0) false (even (- n 1))))
+
+(even 8)

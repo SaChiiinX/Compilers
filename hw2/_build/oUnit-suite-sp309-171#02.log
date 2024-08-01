@@ -1,0 +1,21 @@
+2023-11-15T01:51:24+00:00 sp309-171#02 I: Start test suite:1:while_weird_parse.
+2023-11-15T01:51:24+00:00 sp309-171#02 I: Test suite:1:while_weird_parse is successful.
+2023-11-15T01:51:24+00:00 sp309-171#02 I: End test suite:1:while_weird_parse.
+2023-11-15T01:51:24+00:00 sp309-171#02 I: Start test suite:13:whileIntense.
+2023-11-15T01:51:24+00:00 sp309-171#02 I: Test suite:13:whileIntense is successful.
+2023-11-15T01:51:24+00:00 sp309-171#02 I: End test suite:13:whileIntense.
+2023-11-15T01:51:24+00:00 sp309-171#02 I: Start test suite:46:myTest_10.
+2023-11-15T01:51:24+00:00 sp309-171#02 I: Test suite:46:myTest_10 is successful.
+2023-11-15T01:51:24+00:00 sp309-171#02 I: End test suite:46:myTest_10.
+2023-11-15T01:51:24+00:00 sp309-171#02 I: Start test suite:58:invalid_operator.
+2023-11-15T01:51:24+00:00 sp309-171#02 I: Test suite:58:invalid_operator is successful.
+2023-11-15T01:51:24+00:00 sp309-171#02 I: End test suite:58:invalid_operator.
+2023-11-15T01:51:24+00:00 sp309-171#02 I: Start test suite:59:res_word_as_var.
+2023-11-15T01:51:24+00:00 sp309-171#02 I: Test suite:59:res_word_as_var is successful.
+2023-11-15T01:51:24+00:00 sp309-171#02 I: End test suite:59:res_word_as_var.
+2023-11-15T01:51:25+00:00 sp309-171#02 I: Start test suite:60:undec_var_arith.
+2023-11-15T01:51:25+00:00 sp309-171#02 I: Test suite:60:undec_var_arith is successful.
+2023-11-15T01:51:25+00:00 sp309-171#02 I: End test suite:60:undec_var_arith.
+2023-11-15T01:51:25+00:00 sp309-171#02 I: Start test suite:61:undef_fun.
+2023-11-15T01:51:25+00:00 sp309-171#02 I: Test suite:61:undef_fun is successful.
+2023-11-15T01:51:25+00:00 sp309-171#02 I: End test suite:61:undef_fun.

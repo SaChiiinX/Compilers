@@ -1,0 +1,12 @@
+2023-11-15T01:51:24+00:00 sp309-171#11 I: Start test suite:10:setTest2.
+2023-11-15T01:51:24+00:00 sp309-171#11 I: Test suite:10:setTest2 is successful.
+2023-11-15T01:51:24+00:00 sp309-171#11 I: End test suite:10:setTest2.
+2023-11-15T01:51:24+00:00 sp309-171#11 I: Start test suite:41:myTest_4.
+2023-11-15T01:51:24+00:00 sp309-171#11 I: Test suite:41:myTest_4 is successful.
+2023-11-15T01:51:24+00:00 sp309-171#11 I: End test suite:41:myTest_4.
+2023-11-15T01:51:24+00:00 sp309-171#11 I: Start test suite:44:myTest_8.
+2023-11-15T01:51:24+00:00 sp309-171#11 I: Test suite:44:myTest_8 is successful.
+2023-11-15T01:51:24+00:00 sp309-171#11 I: End test suite:44:myTest_8.
+2023-11-15T01:51:24+00:00 sp309-171#11 I: Start test suite:54:var_mul.
+2023-11-15T01:51:25+00:00 sp309-171#11 I: Test suite:54:var_mul is successful.
+2023-11-15T01:51:25+00:00 sp309-171#11 I: End test suite:54:var_mul.

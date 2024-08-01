@@ -1,0 +1,9 @@
+2023-10-09T22:55:49+00:00 dritchie#08 I: Start test suite:7:def_x3.
+2023-10-09T22:55:49+00:00 dritchie#08 I: Test suite:7:def_x3 is successful.
+2023-10-09T22:55:49+00:00 dritchie#08 I: End test suite:7:def_x3.
+2023-10-09T22:55:49+00:00 dritchie#08 I: Start test suite:14:let_nested.
+2023-10-09T22:55:49+00:00 dritchie#08 I: Test suite:14:let_nested is successful.
+2023-10-09T22:55:49+00:00 dritchie#08 I: End test suite:14:let_nested.
+2023-10-09T22:55:49+00:00 dritchie#08 I: Start test suite:35:nest_arith.
+2023-10-09T22:55:49+00:00 dritchie#08 I: Test suite:35:nest_arith is successful.
+2023-10-09T22:55:49+00:00 dritchie#08 I: End test suite:35:nest_arith.

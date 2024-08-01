@@ -1,0 +1,404 @@
+2023-10-09T22:55:49+00:00 dritchie#00 I: Runner: processes
+2023-10-09T22:55:49+00:00 dritchie#00 I: Chooser: simple
+2023-10-09T22:55:49+00:00 dritchie#00 I: Configuration suite_name = "suite"
+2023-10-09T22:55:49+00:00 dritchie#00 I: Configuration cache_filename = "/home/skchin/Compilers/mfriend-skchin/hw1/_build/oUnit-$(suite_name).cache"
+2023-10-09T22:55:49+00:00 dritchie#00 I: Configuration run_gc_full_major = "true"
+2023-10-09T22:55:49+00:00 dritchie#00 I: Configuration display = "true"
+2023-10-09T22:55:49+00:00 dritchie#00 I: Configuration results_style_1_X = "false"
+2023-10-09T22:55:49+00:00 dritchie#00 I: Configuration testdata_dir = "none"
+2023-10-09T22:55:49+00:00 dritchie#00 I: Configuration health_check_interval = "1."
+2023-10-09T22:55:49+00:00 dritchie#00 I: Configuration verbose = "false"
+2023-10-09T22:55:49+00:00 dritchie#00 I: Configuration chooser = "simple"
+2023-10-09T22:55:49+00:00 dritchie#00 I: Configuration output_html_dir = "none"
+2023-10-09T22:55:49+00:00 dritchie#00 I: Configuration processes_kill_period = "5."
+2023-10-09T22:55:49+00:00 dritchie#00 I: Configuration runner = "processes"
+2023-10-09T22:55:49+00:00 dritchie#00 I: Configuration shards = "12"
+2023-10-09T22:55:49+00:00 dritchie#00 I: Configuration processes_grace_period = "5."
+2023-10-09T22:55:49+00:00 dritchie#00 I: Configuration log_encoding = "utf-8"
+2023-10-09T22:55:49+00:00 dritchie#00 I: Configuration output_junit_file = "none"
+2023-10-09T22:55:49+00:00 dritchie#00 I: Configuration ci = "false"
+2023-10-09T22:55:49+00:00 dritchie#00 I: Configuration output_file = "/home/skchin/Compilers/mfriend-skchin/hw1/_build/oUnit-$(suite_name)-$(shard_id).log"
+2023-10-09T22:55:49+00:00 dritchie#00 I: Using 12 workers maximum.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Starting worker number dritchie#01.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Worker dritchie#01 started.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Starting worker number dritchie#02.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Worker dritchie#02 started.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Starting worker number dritchie#03.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Worker dritchie#03 started.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Starting worker number dritchie#04.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Worker dritchie#04 started.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Starting worker number dritchie#05.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Worker dritchie#05 started.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Starting worker number dritchie#06.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Worker dritchie#06 started.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Starting worker number dritchie#07.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Worker dritchie#07 started.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Starting worker number dritchie#08.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Worker dritchie#08 started.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Starting worker number dritchie#09.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Worker dritchie#09 started.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Starting worker number dritchie#10.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Worker dritchie#10 started.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Starting worker number dritchie#11.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Worker dritchie#11 started.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Starting worker number dritchie#12.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Worker dritchie#12 started.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:8:def_x4, suite:7:def_x3, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty, suite:2:forty_one, suite:1:nested_bind_parse, suite:0:forty_one_parse.
+2023-10-09T22:55:49+00:00 dritchie#01 I: Start test suite:0:forty_one_parse.
+2023-10-09T22:55:49+00:00 dritchie#02 I: Start test suite:1:nested_bind_parse.
+2023-10-09T22:55:49+00:00 dritchie#03 I: Start test suite:2:forty_one.
+2023-10-09T22:55:49+00:00 dritchie#04 I: Start test suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#05 I: Start test suite:4:add1.
+2023-10-09T22:55:49+00:00 dritchie#06 I: Start test suite:5:def_x.
+2023-10-09T22:55:49+00:00 dritchie#07 I: Start test suite:6:def_x2.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:8:def_x4, suite:7:def_x3, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty, suite:2:forty_one, suite:1:nested_bind_parse, suite:0:forty_one_parse.
+2023-10-09T22:55:49+00:00 dritchie#01 I: Test suite:0:forty_one_parse is successful.
+2023-10-09T22:55:49+00:00 dritchie#02 I: Test suite:1:nested_bind_parse is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:8:def_x4, suite:7:def_x3, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty, suite:2:forty_one, suite:1:nested_bind_parse, suite:0:forty_one_parse.
+2023-10-09T22:55:49+00:00 dritchie#01 I: End test suite:0:forty_one_parse.
+2023-10-09T22:55:49+00:00 dritchie#02 I: End test suite:1:nested_bind_parse.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:8:def_x4, suite:7:def_x3, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty, suite:2:forty_one, suite:1:nested_bind_parse, suite:0:forty_one_parse.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:13:nested_arith2, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:8:def_x4, suite:7:def_x3, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty, suite:2:forty_one.
+2023-10-09T22:55:49+00:00 dritchie#01 I: Start test suite:13:nested_arith2.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:13:nested_arith2, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:8:def_x4, suite:7:def_x3, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty, suite:2:forty_one.
+2023-10-09T22:55:49+00:00 dritchie#02 I: Start test suite:12:nested_arith.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:13:nested_arith2, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:8:def_x4, suite:7:def_x3, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty, suite:2:forty_one.
+2023-10-09T22:55:49+00:00 dritchie#09 I: Start test suite:8:def_x4.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:13:nested_arith2, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:8:def_x4, suite:7:def_x3, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty, suite:2:forty_one.
+2023-10-09T22:55:49+00:00 dritchie#08 I: Start test suite:7:def_x3.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:13:nested_arith2, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:8:def_x4, suite:7:def_x3, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty, suite:2:forty_one.
+2023-10-09T22:55:49+00:00 dritchie#10 I: Start test suite:9:addnums.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:13:nested_arith2, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:8:def_x4, suite:7:def_x3, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty, suite:2:forty_one.
+2023-10-09T22:55:49+00:00 dritchie#11 I: Start test suite:10:nested_add.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:13:nested_arith2, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:8:def_x4, suite:7:def_x3, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty, suite:2:forty_one.
+2023-10-09T22:55:49+00:00 dritchie#12 I: Start test suite:11:nested_add2.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:13:nested_arith2, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:8:def_x4, suite:7:def_x3, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty, suite:2:forty_one.
+2023-10-09T22:55:49+00:00 dritchie#08 I: Test suite:7:def_x3 is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:13:nested_arith2, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:8:def_x4, suite:7:def_x3, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty, suite:2:forty_one.
+2023-10-09T22:55:49+00:00 dritchie#08 I: End test suite:7:def_x3.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:13:nested_arith2, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:8:def_x4, suite:7:def_x3, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty, suite:2:forty_one.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:14:let_nested, suite:13:nested_arith2, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:8:def_x4, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty, suite:2:forty_one.
+2023-10-09T22:55:49+00:00 dritchie#08 I: Start test suite:14:let_nested.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:14:let_nested, suite:13:nested_arith2, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:8:def_x4, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty, suite:2:forty_one.
+2023-10-09T22:55:49+00:00 dritchie#03 I: Test suite:2:forty_one is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:14:let_nested, suite:13:nested_arith2, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:8:def_x4, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty, suite:2:forty_one.
+2023-10-09T22:55:49+00:00 dritchie#03 I: End test suite:2:forty_one.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:14:let_nested, suite:13:nested_arith2, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:8:def_x4, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty, suite:2:forty_one.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:15:multiple_bind, suite:14:let_nested, suite:13:nested_arith2, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:8:def_x4, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#03 I: Start test suite:15:multiple_bind.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:15:multiple_bind, suite:14:let_nested, suite:13:nested_arith2, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:8:def_x4, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#09 I: Test suite:8:def_x4 is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:15:multiple_bind, suite:14:let_nested, suite:13:nested_arith2, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:8:def_x4, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#09 I: End test suite:8:def_x4.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:15:multiple_bind, suite:14:let_nested, suite:13:nested_arith2, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:8:def_x4, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:13:nested_arith2, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#09 I: Start test suite:16:nested_bind.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:13:nested_arith2, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#06 I: Test suite:5:def_x is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:13:nested_arith2, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#06 I: End test suite:5:def_x.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:13:nested_arith2, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:6:def_x2, suite:5:def_x, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:13:nested_arith2, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:6:def_x2, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#06 I: Start test suite:17:nested_bind2.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:13:nested_arith2, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:6:def_x2, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#07 I: Test suite:6:def_x2 is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:13:nested_arith2, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:6:def_x2, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#07 I: End test suite:6:def_x2.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:13:nested_arith2, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:6:def_x2, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:13:nested_arith2, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#07 I: Start test suite:18:nested_bind3.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:13:nested_arith2, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#01 I: Test suite:13:nested_arith2 is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:13:nested_arith2, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#01 I: End test suite:13:nested_arith2.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:13:nested_arith2, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#01 I: Start test suite:19:nested_bind4.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#11 I: Test suite:10:nested_add is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#11 I: End test suite:10:nested_add.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:12:nested_arith, suite:11:nested_add2, suite:10:nested_add, suite:9:addnums, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:12:nested_arith, suite:11:nested_add2, suite:9:addnums, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#11 I: Start test suite:20:nested_bind5.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:12:nested_arith, suite:11:nested_add2, suite:9:addnums, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#02 I: Test suite:12:nested_arith is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:12:nested_arith, suite:11:nested_add2, suite:9:addnums, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#02 I: End test suite:12:nested_arith.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:12:nested_arith, suite:11:nested_add2, suite:9:addnums, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:21:failLet, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:11:nested_add2, suite:9:addnums, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#02 I: Start test suite:21:failLet.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:21:failLet, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:11:nested_add2, suite:9:addnums, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#02 I: Test suite:21:failLet is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:21:failLet, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:11:nested_add2, suite:9:addnums, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#02 I: End test suite:21:failLet.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:21:failLet, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:11:nested_add2, suite:9:addnums, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:22:failLet2, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:11:nested_add2, suite:9:addnums, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#02 I: Start test suite:22:failLet2.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:22:failLet2, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:11:nested_add2, suite:9:addnums, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#02 I: Test suite:22:failLet2 is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:22:failLet2, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:11:nested_add2, suite:9:addnums, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#04 I: Test suite:3:forty is successful.
+2023-10-09T22:55:49+00:00 dritchie#02 I: End test suite:22:failLet2.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:22:failLet2, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:11:nested_add2, suite:9:addnums, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#04 I: End test suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:23:empty_let, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:11:nested_add2, suite:9:addnums, suite:4:add1, suite:3:forty.
+2023-10-09T22:55:49+00:00 dritchie#02 I: Start test suite:23:empty_let.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:24:bad_let, suite:23:empty_let, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:11:nested_add2, suite:9:addnums, suite:4:add1.
+2023-10-09T22:55:49+00:00 dritchie#04 I: Start test suite:24:bad_let.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:24:bad_let, suite:23:empty_let, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:11:nested_add2, suite:9:addnums, suite:4:add1.
+2023-10-09T22:55:49+00:00 dritchie#02 I: Test suite:23:empty_let is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:24:bad_let, suite:23:empty_let, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:11:nested_add2, suite:9:addnums, suite:4:add1.
+2023-10-09T22:55:49+00:00 dritchie#02 I: End test suite:23:empty_let.
+2023-10-09T22:55:49+00:00 dritchie#04 I: Test suite:24:bad_let is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:24:bad_let, suite:23:empty_let, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:11:nested_add2, suite:9:addnums, suite:4:add1.
+2023-10-09T22:55:49+00:00 dritchie#04 I: End test suite:24:bad_let.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:25:failwords, suite:24:bad_let, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:11:nested_add2, suite:9:addnums, suite:4:add1.
+2023-10-09T22:55:49+00:00 dritchie#02 I: Start test suite:25:failwords.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:26:failwords2, suite:25:failwords, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:11:nested_add2, suite:9:addnums, suite:4:add1.
+2023-10-09T22:55:49+00:00 dritchie#02 I: Test suite:25:failwords is successful.
+2023-10-09T22:55:49+00:00 dritchie#04 I: Start test suite:26:failwords2.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:26:failwords2, suite:25:failwords, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:11:nested_add2, suite:9:addnums, suite:4:add1.
+2023-10-09T22:55:49+00:00 dritchie#02 I: End test suite:25:failwords.
+2023-10-09T22:55:49+00:00 dritchie#04 I: Test suite:26:failwords2 is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:26:failwords2, suite:25:failwords, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:11:nested_add2, suite:9:addnums, suite:4:add1.
+2023-10-09T22:55:49+00:00 dritchie#05 I: Test suite:4:add1 is successful.
+2023-10-09T22:55:49+00:00 dritchie#04 I: End test suite:26:failwords2.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:27:failID, suite:26:failwords2, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:11:nested_add2, suite:9:addnums, suite:4:add1.
+2023-10-09T22:55:49+00:00 dritchie#05 I: End test suite:4:add1.
+2023-10-09T22:55:49+00:00 dritchie#02 I: Start test suite:27:failID.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:28:failID2, suite:27:failID, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:11:nested_add2, suite:9:addnums, suite:4:add1.
+2023-10-09T22:55:49+00:00 dritchie#12 I: Test suite:11:nested_add2 is successful.
+2023-10-09T22:55:49+00:00 dritchie#02 I: Test suite:27:failID is successful.
+2023-10-09T22:55:49+00:00 dritchie#04 I: Start test suite:28:failID2.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:29:add_neg, suite:28:failID2, suite:27:failID, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:11:nested_add2, suite:9:addnums.
+2023-10-09T22:55:49+00:00 dritchie#12 I: End test suite:11:nested_add2.
+2023-10-09T22:55:49+00:00 dritchie#02 I: End test suite:27:failID.
+2023-10-09T22:55:49+00:00 dritchie#04 I: Test suite:28:failID2 is successful.
+2023-10-09T22:55:49+00:00 dritchie#05 I: Start test suite:29:add_neg.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:29:add_neg, suite:28:failID2, suite:27:failID, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:11:nested_add2, suite:9:addnums.
+2023-10-09T22:55:49+00:00 dritchie#04 I: End test suite:28:failID2.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:28:failID2, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:9:addnums.
+2023-10-09T22:55:49+00:00 dritchie#02 I: Start test suite:30:mul.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:9:addnums.
+2023-10-09T22:55:49+00:00 dritchie#12 I: Start test suite:31:complex_arith.
+2023-10-09T22:55:49+00:00 dritchie#04 I: Start test suite:32:simple_let.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:9:addnums.
+2023-10-09T22:55:49+00:00 dritchie#10 I: Test suite:9:addnums is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:9:addnums.
+2023-10-09T22:55:49+00:00 dritchie#10 I: End test suite:9:addnums.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested, suite:9:addnums.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested.
+2023-10-09T22:55:49+00:00 dritchie#10 I: Start test suite:33:nest_let.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested.
+2023-10-09T22:55:49+00:00 dritchie#09 I: Test suite:16:nested_bind is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested.
+2023-10-09T22:55:49+00:00 dritchie#09 I: End test suite:16:nested_bind.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:16:nested_bind, suite:15:multiple_bind, suite:14:let_nested.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:15:multiple_bind, suite:14:let_nested.
+2023-10-09T22:55:49+00:00 dritchie#09 I: Start test suite:34:simple_arith.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:15:multiple_bind, suite:14:let_nested.
+2023-10-09T22:55:49+00:00 dritchie#08 I: Test suite:14:let_nested is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:15:multiple_bind, suite:14:let_nested.
+2023-10-09T22:55:49+00:00 dritchie#08 I: End test suite:14:let_nested.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:15:multiple_bind, suite:14:let_nested.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:15:multiple_bind.
+2023-10-09T22:55:49+00:00 dritchie#08 I: Start test suite:35:nest_arith.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:15:multiple_bind.
+2023-10-09T22:55:49+00:00 dritchie#03 I: Test suite:15:multiple_bind is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:15:multiple_bind.
+2023-10-09T22:55:49+00:00 dritchie#03 I: End test suite:15:multiple_bind.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2, suite:15:multiple_bind.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2.
+2023-10-09T22:55:49+00:00 dritchie#03 I: Start test suite:36:var_mul.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2.
+2023-10-09T22:55:49+00:00 dritchie#07 I: Test suite:18:nested_bind3 is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2.
+2023-10-09T22:55:49+00:00 dritchie#06 I: Test suite:17:nested_bind2 is successful.
+2023-10-09T22:55:49+00:00 dritchie#07 I: End test suite:18:nested_bind3.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:20:nested_bind5, suite:19:nested_bind4, suite:18:nested_bind3, suite:17:nested_bind2.
+2023-10-09T22:55:49+00:00 dritchie#06 I: End test suite:17:nested_bind2.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:20:nested_bind5, suite:19:nested_bind4, suite:17:nested_bind2.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 12 tests running : suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:20:nested_bind5, suite:19:nested_bind4.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:20:nested_bind5, suite:19:nested_bind4.
+2023-10-09T22:55:49+00:00 dritchie#07 I: Start test suite:37:var_sub.
+2023-10-09T22:55:49+00:00 dritchie#06 I: Start test suite:38:var_add.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 12 tests running : suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:20:nested_bind5, suite:19:nested_bind4.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:20:nested_bind5, suite:19:nested_bind4.
+2023-10-09T22:55:49+00:00 dritchie#11 I: Test suite:20:nested_bind5 is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 12 tests running : suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:20:nested_bind5, suite:19:nested_bind4.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:20:nested_bind5, suite:19:nested_bind4.
+2023-10-09T22:55:49+00:00 dritchie#11 I: End test suite:20:nested_bind5.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 12 tests running : suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:20:nested_bind5, suite:19:nested_bind4.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 12 tests running: suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:20:nested_bind5, suite:19:nested_bind4.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 11 tests running : suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:19:nested_bind4.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 11 tests running: suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:19:nested_bind4.
+2023-10-09T22:55:49+00:00 dritchie#02 I: Test suite:30:mul is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 11 tests running : suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:19:nested_bind4.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 11 tests running: suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:19:nested_bind4.
+2023-10-09T22:55:49+00:00 dritchie#01 I: Test suite:19:nested_bind4 is successful.
+2023-10-09T22:55:49+00:00 dritchie#02 I: End test suite:30:mul.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 11 tests running : suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:19:nested_bind4.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 11 tests running: suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:30:mul, suite:29:add_neg, suite:19:nested_bind4.
+2023-10-09T22:55:49+00:00 dritchie#01 I: End test suite:19:nested_bind4.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 10 tests running : suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:29:add_neg, suite:19:nested_bind4.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 10 tests running: suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:29:add_neg, suite:19:nested_bind4.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 9 tests running : suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:29:add_neg.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 9 tests running: suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:29:add_neg.
+2023-10-09T22:55:49+00:00 dritchie#12 I: Test suite:31:complex_arith is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 9 tests running : suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:29:add_neg.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 9 tests running: suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:29:add_neg.
+2023-10-09T22:55:49+00:00 dritchie#12 I: End test suite:31:complex_arith.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 9 tests running : suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:29:add_neg.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 9 tests running: suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:31:complex_arith, suite:29:add_neg.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 8 tests running : suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:29:add_neg.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 8 tests running: suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:29:add_neg.
+2023-10-09T22:55:49+00:00 dritchie#05 I: Test suite:29:add_neg is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 8 tests running : suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:29:add_neg.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 8 tests running: suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:29:add_neg.
+2023-10-09T22:55:49+00:00 dritchie#05 I: End test suite:29:add_neg.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 8 tests running : suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:29:add_neg.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 8 tests running: suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let, suite:29:add_neg.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 7 tests running : suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 7 tests running: suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let.
+2023-10-09T22:55:49+00:00 dritchie#04 I: Test suite:32:simple_let is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 7 tests running : suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 7 tests running: suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let.
+2023-10-09T22:55:49+00:00 dritchie#04 I: End test suite:32:simple_let.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 7 tests running : suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 7 tests running: suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let, suite:32:simple_let.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 6 tests running : suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 6 tests running: suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let.
+2023-10-09T22:55:49+00:00 dritchie#10 I: Test suite:33:nest_let is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 6 tests running : suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 6 tests running: suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let.
+2023-10-09T22:55:49+00:00 dritchie#10 I: End test suite:33:nest_let.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 6 tests running : suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 6 tests running: suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith, suite:33:nest_let.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 5 tests running : suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 5 tests running: suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith.
+2023-10-09T22:55:49+00:00 dritchie#03 I: Test suite:36:var_mul is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 5 tests running : suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 5 tests running: suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith.
+2023-10-09T22:55:49+00:00 dritchie#03 I: End test suite:36:var_mul.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 5 tests running : suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 5 tests running: suite:38:var_add, suite:37:var_sub, suite:36:var_mul, suite:35:nest_arith, suite:34:simple_arith.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 4 tests running : suite:38:var_add, suite:37:var_sub, suite:35:nest_arith, suite:34:simple_arith.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 4 tests running: suite:38:var_add, suite:37:var_sub, suite:35:nest_arith, suite:34:simple_arith.
+2023-10-09T22:55:49+00:00 dritchie#09 I: Test suite:34:simple_arith is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 4 tests running : suite:38:var_add, suite:37:var_sub, suite:35:nest_arith, suite:34:simple_arith.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 4 tests running: suite:38:var_add, suite:37:var_sub, suite:35:nest_arith, suite:34:simple_arith.
+2023-10-09T22:55:49+00:00 dritchie#09 I: End test suite:34:simple_arith.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 4 tests running : suite:38:var_add, suite:37:var_sub, suite:35:nest_arith, suite:34:simple_arith.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 4 tests running: suite:38:var_add, suite:37:var_sub, suite:35:nest_arith, suite:34:simple_arith.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 3 tests running : suite:38:var_add, suite:37:var_sub, suite:35:nest_arith.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 3 tests running: suite:38:var_add, suite:37:var_sub, suite:35:nest_arith.
+2023-10-09T22:55:49+00:00 dritchie#08 I: Test suite:35:nest_arith is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 3 tests running : suite:38:var_add, suite:37:var_sub, suite:35:nest_arith.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 3 tests running: suite:38:var_add, suite:37:var_sub, suite:35:nest_arith.
+2023-10-09T22:55:49+00:00 dritchie#08 I: End test suite:35:nest_arith.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 3 tests running : suite:38:var_add, suite:37:var_sub, suite:35:nest_arith.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 3 tests running: suite:38:var_add, suite:37:var_sub, suite:35:nest_arith.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 2 tests running : suite:38:var_add, suite:37:var_sub.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 2 tests running: suite:38:var_add, suite:37:var_sub.
+2023-10-09T22:55:49+00:00 dritchie#06 I: Test suite:38:var_add is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 2 tests running : suite:38:var_add, suite:37:var_sub.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 2 tests running: suite:38:var_add, suite:37:var_sub.
+2023-10-09T22:55:49+00:00 dritchie#06 I: End test suite:38:var_add.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 2 tests running : suite:38:var_add, suite:37:var_sub.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 2 tests running: suite:38:var_add, suite:37:var_sub.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 1 tests running : suite:37:var_sub.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 1 tests running: suite:37:var_sub.
+2023-10-09T22:55:49+00:00 dritchie#07 I: Test suite:37:var_sub is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 1 tests running : suite:37:var_sub.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 1 tests running: suite:37:var_sub.
+2023-10-09T22:55:49+00:00 dritchie#07 I: End test suite:37:var_sub.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Still 1 tests running : suite:37:var_sub.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 1 tests running: suite:37:var_sub.
+2023-10-09T22:55:49+00:00 dritchie#00 I: 0 tests running: .
+2023-10-09T22:55:49+00:00 dritchie#00 I: Worker dritchie#11 has ended.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Worker dritchie#02 has ended.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Worker dritchie#01 has ended.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Worker dritchie#12 has ended.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Worker dritchie#05 has ended.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Worker dritchie#04 has ended.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Worker dritchie#10 has ended.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Worker dritchie#03 has ended.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Worker dritchie#09 has ended.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Worker dritchie#08 has ended.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Worker dritchie#06 has ended.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Worker dritchie#07 has ended.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Used 12 worker during test execution.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Run 3 tests with shard dritchie#03.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Run 2 tests with shard dritchie#05.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Run 3 tests with shard dritchie#07.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Run 2 tests with shard dritchie#11.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Run 3 tests with shard dritchie#06.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Run 8 tests with shard dritchie#02.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Run 3 tests with shard dritchie#08.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Run 2 tests with shard dritchie#10.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Run 3 tests with shard dritchie#09.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Run 5 tests with shard dritchie#04.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Run 3 tests with shard dritchie#01.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Run 2 tests with shard dritchie#12.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Check health of shard dritchie#03, 13 times.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Check health of shard dritchie#05, 22 times.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Check health of shard dritchie#11, 32 times.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Check health of shard dritchie#07, 1 times.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Check health of shard dritchie#06, 4 times.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Check health of shard dritchie#02, 29 times.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Check health of shard dritchie#10, 16 times.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Check health of shard dritchie#08, 7 times.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Check health of shard dritchie#09, 10 times.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Check health of shard dritchie#04, 19 times.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Check health of shard dritchie#01, 28 times.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Check health of shard dritchie#12, 25 times.
+2023-10-09T22:55:49+00:00 dritchie#00 I: ==============
+2023-10-09T22:55:49+00:00 dritchie#00 I: Summary:
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:37:var_sub is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:38:var_add is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:35:nest_arith is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:34:simple_arith is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:36:var_mul is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:33:nest_let is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:32:simple_let is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:29:add_neg is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:31:complex_arith is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:19:nested_bind4 is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:30:mul is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:20:nested_bind5 is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:17:nested_bind2 is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:18:nested_bind3 is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:15:multiple_bind is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:14:let_nested is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:16:nested_bind is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:9:addnums is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:28:failID2 is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:27:failID is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:11:nested_add2 is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:4:add1 is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:26:failwords2 is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:25:failwords is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:24:bad_let is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:23:empty_let is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:3:forty is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:22:failLet2 is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:21:failLet is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:12:nested_arith is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:10:nested_add is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:13:nested_arith2 is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:6:def_x2 is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:5:def_x is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:8:def_x4 is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:2:forty_one is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:7:def_x3 is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:1:nested_bind_parse is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Test suite:0:forty_one_parse is successful.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Ran: 39 tests in: 0.33 seconds.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Cases: 39.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Tried: 39.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Errors: 0.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Failures: 0.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Skip: 0.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Todo: 0.
+2023-10-09T22:55:49+00:00 dritchie#00 I: Timeout: 0.

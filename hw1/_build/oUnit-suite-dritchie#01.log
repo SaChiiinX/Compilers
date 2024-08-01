@@ -1,0 +1,9 @@
+2023-10-09T22:55:49+00:00 dritchie#01 I: Start test suite:0:forty_one_parse.
+2023-10-09T22:55:49+00:00 dritchie#01 I: Test suite:0:forty_one_parse is successful.
+2023-10-09T22:55:49+00:00 dritchie#01 I: End test suite:0:forty_one_parse.
+2023-10-09T22:55:49+00:00 dritchie#01 I: Start test suite:13:nested_arith2.
+2023-10-09T22:55:49+00:00 dritchie#01 I: Test suite:13:nested_arith2 is successful.
+2023-10-09T22:55:49+00:00 dritchie#01 I: End test suite:13:nested_arith2.
+2023-10-09T22:55:49+00:00 dritchie#01 I: Start test suite:19:nested_bind4.
+2023-10-09T22:55:49+00:00 dritchie#01 I: Test suite:19:nested_bind4 is successful.
+2023-10-09T22:55:49+00:00 dritchie#01 I: End test suite:19:nested_bind4.
